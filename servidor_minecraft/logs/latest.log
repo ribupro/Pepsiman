@@ -736,3 +736,252 @@ com.google.gson.JsonSyntaxException: Unknown item 'mekanism:alloy_reinforced'
 [16Jan2025 15:18:39.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 🪓 ▷[LilithSan5]◁ ⛏ has made the advancement [Sweet Dreams]
 [16Jan2025 15:18:41.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [🪓 ▷[Alexterminium] <ADMIN>◁ ⛏: Teleported 🪓 ▷[Alexterminium] <ADMIN>◁ ⛏ to 🪓 ▷[LilithSan5]◁ ⛏]
 [16Jan2025 15:18:42.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 🪓 ▷[Alexterminium] <ADMIN>◁ ⛏ has made the advancement [Minecraft Comes Alive]
+[16Jan2025 15:18:57.480] [Server thread/WARN] [tombstone/]: The death event of the player kattoyt was canceled by another mod
+[16Jan2025 15:18:57.499] [Server thread/INFO] [tombstone/]: The player kattoyt has successfully been saved
+[16Jan2025 15:19:05.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 🪓 ▷[kattoyt]◁ ⛏ has reached the goal [Chain Death]
+[16Jan2025 15:19:05.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 🪓 ▷[kattoyt]◁ ⛏ was slain by Zombie
+[16Jan2025 15:19:06.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <🪓 ▷[Jonico_10]◁ ⛏> alex desde cuando el born in chaos trae a los lifestealer:v
+[16Jan2025 15:19:07.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <🪓 ▷[LilithSan5]◁ ⛏> espera
+[16Jan2025 15:19:13.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <🪓 ▷[Alexterminium] <ADMIN>◁ ⛏> si
+[16Jan2025 15:19:14.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 🪓 ▷[LoDors_]◁ ⛏ was slain by Skeleton
+[16Jan2025 15:19:14.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 🪓 ▷[LoDors_]◁ ⛏ has made the advancement [Your First Grave]
+[16Jan2025 15:19:18.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 🪓 ▷[LoDors_]◁ ⛏ has reached the goal [Discreet Search]
+[16Jan2025 15:19:21.511] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=84, y=105, z=5}
+[16Jan2025 15:19:21.564] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=84, y=105, z=6}
+[16Jan2025 15:19:21.667] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=83, y=105, z=6}
+[16Jan2025 15:19:22.412] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=83, y=105, z=6}
+[16Jan2025 15:19:38.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 🪓 ▷[LoDors_]◁ ⛏ has reached the goal [Here They Come]
+[16Jan2025 15:19:52.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 🪓 ▷[2103_]◁ ⛏ has made the advancement [Enchanter]
+[16Jan2025 15:20:05.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <🪓 ▷[Jonico_10]◁ ⛏> se siente raro no esclavizar aldeanos
+[16Jan2025 15:20:10.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <🪓 ▷[2103_]◁ ⛏> si
+[16Jan2025 15:20:22.748] [Server thread/WARN] [tombstone/]: The death event of the player kattoyt was canceled by another mod
+[16Jan2025 15:20:22.761] [Server thread/INFO] [tombstone/]: The player kattoyt has successfully been saved
+[16Jan2025 15:20:24.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <🪓 ▷[Jonico_10]◁ ⛏> almenos tienn otro uso
+[16Jan2025 15:20:26.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <🪓 ▷[Jonico_10]◁ ⛏> el hierro
+[16Jan2025 15:20:30.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <🪓 ▷[Jonico_10]◁ ⛏> muajajajjaa
+[16Jan2025 15:20:34.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 🪓 ▷[kattoyt]◁ ⛏ was slain by Skeleton
+[16Jan2025 15:20:35.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <🪓 ▷[2103_]◁ ⛏> XDDDD
+[16Jan2025 15:20:37.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 🪓 ▷[LoDors_]◁ ⛏ has made the advancement [Acquire Hardware]
+[16Jan2025 15:21:41.895] [Server thread/WARN] [tombstone/]: The death event of the player kattoyt was canceled by another mod
+[16Jan2025 15:21:41.914] [Server thread/INFO] [tombstone/]: The player kattoyt has successfully been saved
+[16Jan2025 15:21:48.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 🪓 ▷[kattoyt]◁ ⛏ was slain by Skeleton
+[16Jan2025 15:21:51.511] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Yetkin'/14167, l='ServerLevel[world]', x=-1398.09, y=63.00, z=-795.02] died, message: 'Yetkin was slain by Zombie'
+[16Jan2025 15:21:51.511] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Yetkin'/14167, l='ServerLevel[world]', x=-1398.09, y=63.00, z=-795.02] died: Yetkin was slain by Zombie
+[16Jan2025 15:22:19.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <🪓 ▷[2103_]◁ ⛏> tengan cuidado con los diamantes
+[16Jan2025 15:22:25.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <🪓 ▷[Jonico_10]◁ ⛏> por las termitas?
+[16Jan2025 15:22:30.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <🪓 ▷[2103_]◁ ⛏> si
+[16Jan2025 15:23:53.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 🪓 ▷[Jonico_10]◁ ⛏ has made the advancement [Take Aim]
+[16Jan2025 15:23:59.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 🪓 ▷[Jonico_10]◁ ⛏ has made the advancement [Good Demoman]
+[16Jan2025 15:26:46.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 🪓 ▷[LoDors_]◁ ⛏ has made the advancement [Battle Towers?]
+[16Jan2025 15:26:59.953] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kattoyt lost connection: Disconnected
+[16Jan2025 15:26:59.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 🪓 ▷[kattoyt]◁ ⛏ left the game
+[16Jan2025 15:26:59.954] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client kattoyt
+[16Jan2025 15:27:02.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 🪓 ▷[LoDors_]◁ ⛏ has made the advancement [Disme A Dozen]
+[16Jan2025 15:27:27.098] [Server thread/WARN] [tombstone/]: The death event of the player LoDors_ was canceled by another mod
+[16Jan2025 15:27:27.107] [Server thread/INFO] [tombstone/]: The player LoDors_ has successfully been saved
+[16Jan2025 15:28:06.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <🪓 ▷[LoDors_]◁ ⛏> AYUDA
+[16Jan2025 15:28:27.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 🪓 ▷[LoDors_]◁ ⛏ was slain by Zombie
+[16Jan2025 15:28:47.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 🪓 ▷[2103_]◁ ⛏ has made the advancement [Battle Towers?]
+[16Jan2025 15:28:54.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 🪓 ▷[2103_]◁ ⛏ has made the advancement [Barrel Booty]
+[16Jan2025 15:28:54.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 🪓 ▷[2103_]◁ ⛏ has made the advancement [Disme A Dozen]
+[16Jan2025 15:29:36.201] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LoDors_ lost connection: Disconnected
+[16Jan2025 15:29:36.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 🪓 ▷[LoDors_]◁ ⛏ left the game
+[16Jan2025 15:29:36.202] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client LoDors_
+[16Jan2025 15:30:03.944] [Server thread/WARN] [tombstone/]: The death event of the player 2103_ was canceled by another mod
+[16Jan2025 15:30:03.954] [Server thread/INFO] [tombstone/]: The player 2103_ has successfully been saved
+[16Jan2025 15:30:11.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 🪓 ▷[2103_]◁ ⛏ was slain by Zombie
+[16Jan2025 15:30:21.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <🪓 ▷[Jonico_10]◁ ⛏> alex lo toy pensando
+[16Jan2025 15:30:25.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <🪓 ▷[Jonico_10]◁ ⛏> como obtendremos reparacion?
+[16Jan2025 15:30:37.304] [Server thread/WARN] [tombstone/]: The death event of the player 2103_ was canceled by another mod
+[16Jan2025 15:30:37.313] [Server thread/INFO] [tombstone/]: The player 2103_ has successfully been saved
+[16Jan2025 15:30:44.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 🪓 ▷[2103_]◁ ⛏ was slain by Zombie
+[16Jan2025 15:30:49.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 🪓 ▷[2103_]◁ ⛏ has made the advancement [The Most Useful Key]
+[16Jan2025 15:31:18.904] [Server thread/WARN] [tombstone/]: The death event of the player 2103_ was canceled by another mod
+[16Jan2025 15:31:18.906] [Server thread/INFO] [tombstone/]: The player 2103_ has successfully been saved
+[16Jan2025 15:31:24.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 🪓 ▷[2103_]◁ ⛏ was shot by Skeleton
+[16Jan2025 15:32:06.949] [Server thread/WARN] [tombstone/]: The death event of the player 2103_ was canceled by another mod
+[16Jan2025 15:32:06.953] [Server thread/INFO] [tombstone/]: The player 2103_ has successfully been saved
+[16Jan2025 15:32:12.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 🪓 ▷[2103_]◁ ⛏ was slain by Zombie
+[16Jan2025 15:32:22.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <🪓 ▷[2103_]◁ ⛏> alex los zombies estan potentes
+[16Jan2025 15:32:46.293] [Server thread/WARN] [tombstone/]: The death event of the player 2103_ was canceled by another mod
+[16Jan2025 15:32:46.302] [Server thread/INFO] [tombstone/]: The player 2103_ has successfully been saved
+[16Jan2025 15:32:52.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 🪓 ▷[2103_]◁ ⛏ was slain by Skeleton
+[16Jan2025 15:33:03.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 🪓 ▷[2103_]◁ ⛏ has reached the goal [A Fast Comeback]
+[16Jan2025 15:33:20.250] [Server thread/WARN] [tombstone/]: The death event of the player 2103_ was canceled by another mod
+[16Jan2025 15:33:20.252] [Server thread/INFO] [tombstone/]: The player 2103_ has successfully been saved
+[16Jan2025 15:33:26.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 🪓 ▷[2103_]◁ ⛏ was shot by Skeleton
+[16Jan2025 15:33:26.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 🪓 ▷[Alexterminium] <ADMIN>◁ ⛏ has made the advancement ['X' Marks the Spot]
+[16Jan2025 15:33:26.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 🪓 ▷[Alexterminium] <ADMIN>◁ ⛏ has made the advancement [Disme A Dozen]
+[16Jan2025 15:33:37.596] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LilithSan5 lost connection: Disconnected
+[16Jan2025 15:33:37.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 🪓 ▷[LilithSan5]◁ ⛏ left the game
+[16Jan2025 15:33:37.597] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client LilithSan5
+[16Jan2025 15:33:57.495] [Server thread/WARN] [tombstone/]: The death event of the player 2103_ was canceled by another mod
+[16Jan2025 15:33:57.501] [Server thread/INFO] [tombstone/]: The player 2103_ has successfully been saved
+[16Jan2025 15:34:03.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 🪓 ▷[2103_]◁ ⛏ was slain by Zombie
+[16Jan2025 15:34:22.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[16Jan2025 15:34:22.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playit<--[HERE]
+[16Jan2025 15:34:27.145] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Soultana'/2161, l='ServerLevel[world]', x=-370.83, y=73.00, z=236.20] died, message: 'Soultana was slain by Swarmer'
+[16Jan2025 15:34:27.145] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Soultana'/2161, l='ServerLevel[world]', x=-370.83, y=73.00, z=236.20] died: Soultana was slain by Swarmer
+[16Jan2025 15:34:33.396] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Kyriakos'/2160, l='ServerLevel[world]', x=-372.42, y=73.00, z=237.14] died, message: 'Kyriakos was slain by Swarmer'
+[16Jan2025 15:34:33.397] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Kyriakos'/2160, l='ServerLevel[world]', x=-372.42, y=73.00, z=237.14] died: Kyriakos was slain by Swarmer
+[16Jan2025 15:34:37.702] [Server thread/WARN] [tombstone/]: The death event of the player 2103_ was canceled by another mod
+[16Jan2025 15:34:37.704] [Server thread/INFO] [tombstone/]: The player 2103_ has successfully been saved
+[16Jan2025 15:34:46.647] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 74fd72c8-5658-3f69-baa5-9c7192198c39 timed out
+[16Jan2025 15:34:46.647] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player 2103_
+[16Jan2025 15:34:46.648] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to 2103_
+[16Jan2025 15:34:46.649] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player e9ec43e4-4a44-3c76-b83a-22ecd043eeb6 timed out
+[16Jan2025 15:34:46.649] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Jonico_10
+[16Jan2025 15:34:46.649] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Jonico_10
+[16Jan2025 15:34:46.650] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ed6c5568-96fa-38fd-ad29-941150deb41a timed out
+[16Jan2025 15:34:46.650] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Alexterminium
+[16Jan2025 15:34:46.651] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Alexterminium
+[16Jan2025 15:34:47.057] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ed6c5568-96fa-38fd-ad29-941150deb41a
+[16Jan2025 15:34:47.092] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e9ec43e4-4a44-3c76-b83a-22ecd043eeb6
+[16Jan2025 15:34:47.124] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 74fd72c8-5658-3f69-baa5-9c7192198c39
+[16Jan2025 15:34:48.860] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Tatiana'/2162, l='ServerLevel[world]', x=-370.51, y=73.30, z=234.90] died, message: 'Tatiana was slain by Swarmer'
+[16Jan2025 15:34:48.860] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Tatiana'/2162, l='ServerLevel[world]', x=-370.51, y=73.30, z=234.90] died: Tatiana was slain by Swarmer
+[16Jan2025 15:34:49.057] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ed6c5568-96fa-38fd-ad29-941150deb41a
+[16Jan2025 15:34:49.057] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Alexterminium (ed6c5568-96fa-38fd-ad29-941150deb41a) successfully connected to voice chat
+[16Jan2025 15:34:49.092] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e9ec43e4-4a44-3c76-b83a-22ecd043eeb6
+[16Jan2025 15:34:49.092] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Jonico_10 (e9ec43e4-4a44-3c76-b83a-22ecd043eeb6) successfully connected to voice chat
+[16Jan2025 15:34:49.128] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 74fd72c8-5658-3f69-baa5-9c7192198c39
+[16Jan2025 15:34:49.128] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 2103_ (74fd72c8-5658-3f69-baa5-9c7192198c39) successfully connected to voice chat
+[16Jan2025 15:35:00.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 🪓 ▷[2103_]◁ ⛏ was slain by Zombie
+[16Jan2025 15:35:03.750] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 74fd72c8-5658-3f69-baa5-9c7192198c39 timed out
+[16Jan2025 15:35:03.751] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player 2103_
+[16Jan2025 15:35:03.751] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to 2103_
+[16Jan2025 15:35:03.751] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player e9ec43e4-4a44-3c76-b83a-22ecd043eeb6 timed out
+[16Jan2025 15:35:03.752] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Jonico_10
+[16Jan2025 15:35:03.752] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Jonico_10
+[16Jan2025 15:35:03.752] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ed6c5568-96fa-38fd-ad29-941150deb41a timed out
+[16Jan2025 15:35:03.752] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Alexterminium
+[16Jan2025 15:35:03.752] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Alexterminium
+[16Jan2025 15:35:04.002] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e9ec43e4-4a44-3c76-b83a-22ecd043eeb6
+[16Jan2025 15:35:04.051] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 74fd72c8-5658-3f69-baa5-9c7192198c39
+[16Jan2025 15:35:04.067] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ed6c5568-96fa-38fd-ad29-941150deb41a
+[16Jan2025 15:35:05.003] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e9ec43e4-4a44-3c76-b83a-22ecd043eeb6
+[16Jan2025 15:35:05.003] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Jonico_10 (e9ec43e4-4a44-3c76-b83a-22ecd043eeb6) successfully connected to voice chat
+[16Jan2025 15:35:05.066] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ed6c5568-96fa-38fd-ad29-941150deb41a
+[16Jan2025 15:35:05.066] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Alexterminium (ed6c5568-96fa-38fd-ad29-941150deb41a) successfully connected to voice chat
+[16Jan2025 15:35:12.057] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 74fd72c8-5658-3f69-baa5-9c7192198c39
+[16Jan2025 15:35:12.057] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 2103_ (74fd72c8-5658-3f69-baa5-9c7192198c39) successfully connected to voice chat
+[16Jan2025 15:35:49.015] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 74fd72c8-5658-3f69-baa5-9c7192198c39 timed out
+[16Jan2025 15:35:49.016] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player 2103_
+[16Jan2025 15:35:49.016] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to 2103_
+[16Jan2025 15:35:49.016] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player e9ec43e4-4a44-3c76-b83a-22ecd043eeb6 timed out
+[16Jan2025 15:35:49.016] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Jonico_10
+[16Jan2025 15:35:49.017] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Jonico_10
+[16Jan2025 15:35:49.017] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ed6c5568-96fa-38fd-ad29-941150deb41a timed out
+[16Jan2025 15:35:49.017] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Alexterminium
+[16Jan2025 15:35:49.017] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Alexterminium
+[16Jan2025 15:35:49.249] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ed6c5568-96fa-38fd-ad29-941150deb41a
+[16Jan2025 15:35:49.271] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 74fd72c8-5658-3f69-baa5-9c7192198c39
+[16Jan2025 15:35:49.318] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e9ec43e4-4a44-3c76-b83a-22ecd043eeb6
+[16Jan2025 15:35:50.253] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ed6c5568-96fa-38fd-ad29-941150deb41a
+[16Jan2025 15:35:50.253] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Alexterminium (ed6c5568-96fa-38fd-ad29-941150deb41a) successfully connected to voice chat
+[16Jan2025 15:35:50.319] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e9ec43e4-4a44-3c76-b83a-22ecd043eeb6
+[16Jan2025 15:35:50.319] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Jonico_10 (e9ec43e4-4a44-3c76-b83a-22ecd043eeb6) successfully connected to voice chat
+[16Jan2025 15:35:51.190] [Server thread/WARN] [tombstone/]: The death event of the player 2103_ was canceled by another mod
+[16Jan2025 15:35:51.202] [Server thread/INFO] [tombstone/]: The player 2103_ has successfully been saved
+[16Jan2025 15:35:54.279] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 74fd72c8-5658-3f69-baa5-9c7192198c39
+[16Jan2025 15:35:54.280] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 2103_ (74fd72c8-5658-3f69-baa5-9c7192198c39) successfully connected to voice chat
+[16Jan2025 15:36:04.097] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player e9ec43e4-4a44-3c76-b83a-22ecd043eeb6 timed out
+[16Jan2025 15:36:04.098] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Jonico_10
+[16Jan2025 15:36:04.098] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Jonico_10
+[16Jan2025 15:36:04.098] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ed6c5568-96fa-38fd-ad29-941150deb41a timed out
+[16Jan2025 15:36:04.098] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Alexterminium
+[16Jan2025 15:36:04.099] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Alexterminium
+[16Jan2025 15:36:04.322] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e9ec43e4-4a44-3c76-b83a-22ecd043eeb6
+[16Jan2025 15:36:04.390] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ed6c5568-96fa-38fd-ad29-941150deb41a
+[16Jan2025 15:36:05.104] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 74fd72c8-5658-3f69-baa5-9c7192198c39 timed out
+[16Jan2025 15:36:05.105] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player 2103_
+[16Jan2025 15:36:05.105] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to 2103_
+[16Jan2025 15:36:05.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 🪓 ▷[2103_]◁ ⛏ was slain by Zombie
+[16Jan2025 15:36:05.323] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e9ec43e4-4a44-3c76-b83a-22ecd043eeb6
+[16Jan2025 15:36:05.323] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Jonico_10 (e9ec43e4-4a44-3c76-b83a-22ecd043eeb6) successfully connected to voice chat
+[16Jan2025 15:36:05.386] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ed6c5568-96fa-38fd-ad29-941150deb41a
+[16Jan2025 15:36:05.386] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Alexterminium (ed6c5568-96fa-38fd-ad29-941150deb41a) successfully connected to voice chat
+[16Jan2025 15:36:05.411] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 74fd72c8-5658-3f69-baa5-9c7192198c39
+[16Jan2025 15:36:10.414] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 74fd72c8-5658-3f69-baa5-9c7192198c39
+[16Jan2025 15:36:10.415] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 2103_ (74fd72c8-5658-3f69-baa5-9c7192198c39) successfully connected to voice chat
+[16Jan2025 15:36:25.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <🪓 ▷[Jonico_10]◁ ⛏> Alexterminium
+[16Jan2025 15:36:28.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <🪓 ▷[Alexterminium] <ADMIN>◁ ⛏> q
+[16Jan2025 15:36:36.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <🪓 ▷[Jonico_10]◁ ⛏> ahora me pregunto pa que serviran las esmeraldasXD
+[16Jan2025 15:36:39.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <🪓 ▷[Alexterminium] <ADMIN>◁ ⛏> XDDD
+[16Jan2025 15:36:42.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <🪓 ▷[Alexterminium] <ADMIN>◁ ⛏> sirven
+[16Jan2025 15:36:49.369] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 74fd72c8-5658-3f69-baa5-9c7192198c39 timed out
+[16Jan2025 15:36:49.369] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player 2103_
+[16Jan2025 15:36:49.369] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to 2103_
+[16Jan2025 15:36:49.369] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player e9ec43e4-4a44-3c76-b83a-22ecd043eeb6 timed out
+[16Jan2025 15:36:49.369] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Jonico_10
+[16Jan2025 15:36:49.370] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Jonico_10
+[16Jan2025 15:36:49.370] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ed6c5568-96fa-38fd-ad29-941150deb41a timed out
+[16Jan2025 15:36:49.370] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Alexterminium
+[16Jan2025 15:36:49.370] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Alexterminium
+[16Jan2025 15:36:49.605] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ed6c5568-96fa-38fd-ad29-941150deb41a
+[16Jan2025 15:36:49.607] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 74fd72c8-5658-3f69-baa5-9c7192198c39
+[16Jan2025 15:36:49.640] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e9ec43e4-4a44-3c76-b83a-22ecd043eeb6
+[16Jan2025 15:36:50.605] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ed6c5568-96fa-38fd-ad29-941150deb41a
+[16Jan2025 15:36:50.605] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Alexterminium (ed6c5568-96fa-38fd-ad29-941150deb41a) successfully connected to voice chat
+[16Jan2025 15:36:50.640] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e9ec43e4-4a44-3c76-b83a-22ecd043eeb6
+[16Jan2025 15:36:50.641] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Jonico_10 (e9ec43e4-4a44-3c76-b83a-22ecd043eeb6) successfully connected to voice chat
+[16Jan2025 15:36:52.805] [Server thread/WARN] [tombstone/]: The death event of the player 2103_ was canceled by another mod
+[16Jan2025 15:36:52.810] [Server thread/INFO] [tombstone/]: The player 2103_ has successfully been saved
+[16Jan2025 15:36:54.611] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 74fd72c8-5658-3f69-baa5-9c7192198c39
+[16Jan2025 15:36:54.612] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 2103_ (74fd72c8-5658-3f69-baa5-9c7192198c39) successfully connected to voice chat
+[16Jan2025 15:37:00.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 🪓 ▷[2103_]◁ ⛏ was slain by Zombie
+[16Jan2025 15:37:05.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <🪓 ▷[2103_]◁ ⛏> alex
+[16Jan2025 15:37:05.465] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 74fd72c8-5658-3f69-baa5-9c7192198c39 timed out
+[16Jan2025 15:37:05.466] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player 2103_
+[16Jan2025 15:37:05.466] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to 2103_
+[16Jan2025 15:37:05.466] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player e9ec43e4-4a44-3c76-b83a-22ecd043eeb6 timed out
+[16Jan2025 15:37:05.466] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Jonico_10
+[16Jan2025 15:37:05.467] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Jonico_10
+[16Jan2025 15:37:05.467] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ed6c5568-96fa-38fd-ad29-941150deb41a timed out
+[16Jan2025 15:37:05.467] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Alexterminium
+[16Jan2025 15:37:05.467] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Alexterminium
+[16Jan2025 15:37:05.677] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ed6c5568-96fa-38fd-ad29-941150deb41a
+[16Jan2025 15:37:05.706] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e9ec43e4-4a44-3c76-b83a-22ecd043eeb6
+[16Jan2025 15:37:05.757] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 74fd72c8-5658-3f69-baa5-9c7192198c39
+[16Jan2025 15:37:06.679] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ed6c5568-96fa-38fd-ad29-941150deb41a
+[16Jan2025 15:37:06.680] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Alexterminium (ed6c5568-96fa-38fd-ad29-941150deb41a) successfully connected to voice chat
+[16Jan2025 15:37:06.708] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e9ec43e4-4a44-3c76-b83a-22ecd043eeb6
+[16Jan2025 15:37:06.708] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Jonico_10 (e9ec43e4-4a44-3c76-b83a-22ecd043eeb6) successfully connected to voice chat
+[16Jan2025 15:37:07.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <🪓 ▷[Alexterminium] <ADMIN>◁ ⛏> q
+[16Jan2025 15:37:10.767] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 74fd72c8-5658-3f69-baa5-9c7192198c39
+[16Jan2025 15:37:10.767] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 2103_ (74fd72c8-5658-3f69-baa5-9c7192198c39) successfully connected to voice chat
+[16Jan2025 15:37:23.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <🪓 ▷[2103_]◁ ⛏> porque todos los zombia aparecen con 1 arma que me matan de 1 golpe Xd
+[16Jan2025 15:37:27.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 🪓 ▷[Jonico_10]◁ ⛏ has made the advancement [Life turned out to be a comedy]
+[16Jan2025 15:37:27.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <🪓 ▷[2103_]◁ ⛏> ;V
+[16Jan2025 15:37:32.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <🪓 ▷[Alexterminium] <ADMIN>◁ ⛏> ud q no tiene nada nanana
+[16Jan2025 15:37:39.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <🪓 ▷[Alexterminium] <ADMIN>◁ ⛏> peren voy a reiniciar
+[16Jan2025 15:37:47.297] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alexterminium lost connection: Disconnected
+[16Jan2025 15:37:47.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 🪓 ▷[Alexterminium] <ADMIN>◁ ⛏ left the game
+[16Jan2025 15:37:47.298] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Alexterminium
+[16Jan2025 15:37:49.706] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 74fd72c8-5658-3f69-baa5-9c7192198c39 timed out
+[16Jan2025 15:37:49.706] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player 2103_
+[16Jan2025 15:37:49.707] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to 2103_
+[16Jan2025 15:37:49.707] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player e9ec43e4-4a44-3c76-b83a-22ecd043eeb6 timed out
+[16Jan2025 15:37:49.707] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Jonico_10
+[16Jan2025 15:37:49.707] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Jonico_10
+[16Jan2025 15:37:49.985] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 74fd72c8-5658-3f69-baa5-9c7192198c39
+[16Jan2025 15:37:50.012] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e9ec43e4-4a44-3c76-b83a-22ecd043eeb6
+[16Jan2025 15:37:51.013] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e9ec43e4-4a44-3c76-b83a-22ecd043eeb6
+[16Jan2025 15:37:51.013] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Jonico_10 (e9ec43e4-4a44-3c76-b83a-22ecd043eeb6) successfully connected to voice chat
+[16Jan2025 15:37:53.970] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 74fd72c8-5658-3f69-baa5-9c7192198c39
+[16Jan2025 15:37:53.970] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 2103_ (74fd72c8-5658-3f69-baa5-9c7192198c39) successfully connected to voice chat
+[16Jan2025 15:37:55.540] [Server thread/WARN] [tombstone/]: The death event of the player 2103_ was canceled by another mod
+[16Jan2025 15:37:55.543] [Server thread/INFO] [tombstone/]: The player 2103_ has successfully been saved
+[16Jan2025 15:37:56.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[16Jan2025 15:37:56.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[16Jan2025 15:37:56.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[16Jan2025 15:37:56.210] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jonico_10 lost connection: Server closed
+[16Jan2025 15:37:56.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 🪓 ▷[Jonico_10]◁ ⛏ left the game
+[16Jan2025 15:37:56.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[16Jan2025 15:37:56.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16Jan2025 15:37:58.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[16Jan2025 15:37:58.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[16Jan2025 15:37:58.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16Jan2025 15:37:58.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16Jan2025 15:37:58.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16Jan2025 15:37:58.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
