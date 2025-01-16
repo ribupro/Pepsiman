@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/acacia_shrub": {
+    "criteria": {
+      "has_acacia_sapling": "2025-01-16 02:30:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/prismarine": {
     "criteria": {
       "has_prismarine_shard": "2025-01-16 02:23:14 +0000"
@@ -92,6 +98,12 @@
   "minecraft:recipes/building_blocks/granite": {
     "criteria": {
       "has_quartz": "2025-01-16 02:24:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2025-01-16 02:37:51 +0000"
     },
     "done": true
   },
@@ -435,10 +447,18 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:beach": "2025-01-16 02:29:54 +0000",
       "minecraft:river": "2025-01-16 02:21:47 +0000",
-      "minecraft:jungle": "2025-01-16 02:01:24 +0000"
+      "minecraft:jungle": "2025-01-16 02:01:24 +0000",
+      "minecraft:savanna": "2025-01-16 02:29:49 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-01-16 02:37:51 +0000"
+    },
+    "done": true
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {

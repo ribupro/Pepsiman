@@ -570,3 +570,74 @@ com.google.gson.JsonSyntaxException: Unknown item 'mekanism:alloy_reinforced'
 [16Jan2025 02:31:58.112] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Deimont lost connection: Disconnected
 [16Jan2025 02:31:58.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Deimont left the game
 [16Jan2025 02:31:58.116] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Deimont
+[16Jan2025 02:33:59.470] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Deimont[/127.254.221.207:44307] logged in with entity id 11503 at (-1418.8259226465557, 64.0, -234.62958066879992)
+[16Jan2025 02:33:59.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Deimont joined the game
+[16Jan2025 02:33:59.492] [Server thread/INFO] [Jade/]: Syncing config to Deimont (85c4a027-bc1e-39b2-b5d6-1f382f2917d7)
+[16Jan2025 02:34:01.823] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Deimont (18)
+[16Jan2025 02:34:01.823] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Deimont
+[16Jan2025 02:34:35.970] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Deimont lost connection: Disconnected
+[16Jan2025 02:34:35.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Deimont left the game
+[16Jan2025 02:34:35.971] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Deimont
+[16Jan2025 02:34:49.863] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Deimont[/127.254.221.207:54417] logged in with entity id 12125 at (-1416.0294805787541, 66.0, -235.34055792733798)
+[16Jan2025 02:34:49.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Deimont joined the game
+[16Jan2025 02:34:49.877] [Server thread/INFO] [Jade/]: Syncing config to Deimont (85c4a027-bc1e-39b2-b5d6-1f382f2917d7)
+[16Jan2025 02:34:50.918] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Deimont (18)
+[16Jan2025 02:34:50.918] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Deimont
+[16Jan2025 02:35:59.354] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Claudia'/12168, l='ServerLevel[world]', x=-1427.31, y=63.10, z=-267.36] died, message: 'Claudia was slain by Crocodile'
+[16Jan2025 02:35:59.355] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Claudia'/12168, l='ServerLevel[world]', x=-1427.31, y=63.10, z=-267.36] died: Claudia was slain by Crocodile
+[16Jan2025 02:37:57.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yizus has made the advancement [Disme A Dozen]
+[16Jan2025 02:38:09.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexterminium> xaero-waypoint:Shared Location:S:3604:64:-2384:3:false:0:Internal-overworld-waypoints
+[16Jan2025 02:38:26.051] [Server thread/WARN] [tombstone/]: The death event of the player Andrexo16 was canceled by another mod
+[16Jan2025 02:38:26.077] [Server thread/INFO] [tombstone/]: The player Andrexo16 has successfully been saved
+[16Jan2025 02:38:27.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Deimont has made the advancement [Alex's Mobs]
+[16Jan2025 02:38:33.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andrexo16 was slain by Ourania
+[16Jan2025 02:39:04.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andrexo16 has reached the goal [Here They Come]
+[16Jan2025 02:39:25.165] [Server thread/WARN] [tombstone/]: The death event of the player Alexterminium was canceled by another mod
+[16Jan2025 02:39:25.166] [Server thread/INFO] [tombstone/]: The player Alexterminium has successfully been saved
+[16Jan2025 02:40:13.572] [Server thread/WARN] [tombstone/]: The death event of the player Yizus was canceled by another mod
+[16Jan2025 02:40:13.575] [Server thread/INFO] [tombstone/]: The player Yizus has successfully been saved
+[16Jan2025 02:40:44.312] [Server thread/WARN] [tombstone/]: The death event of the player Andrexo16 was canceled by another mod
+[16Jan2025 02:40:44.314] [Server thread/INFO] [tombstone/]: The player Andrexo16 has successfully been saved
+[16Jan2025 02:40:51.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andrexo16 was shot by Skeleton
+[16Jan2025 02:40:57.751] [Server thread/WARN] [tombstone/]: The death event of the player Yizus was canceled by another mod
+[16Jan2025 02:40:57.766] [Server thread/INFO] [tombstone/]: The player Yizus has successfully been saved
+[16Jan2025 02:41:00.511] [Server thread/WARN] [tombstone/]: The death event of the player Alexterminium was canceled by another mod
+[16Jan2025 02:41:00.513] [Server thread/INFO] [tombstone/]: The player Alexterminium has successfully been saved
+[16Jan2025 02:41:13.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yizus was slain by Natalia
+[16Jan2025 02:41:24.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexterminium was killed by Witch using magic
+[16Jan2025 02:41:25.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andrexo16 has made the advancement [The Wind Darkening]
+[16Jan2025 02:41:30.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Teleported Alexterminium to Yizus]
+[16Jan2025 02:41:44.053] [Server thread/WARN] [tombstone/]: The death event of the player Alexterminium was canceled by another mod
+[16Jan2025 02:41:44.066] [Server thread/INFO] [tombstone/]: The player Alexterminium has successfully been saved
+[16Jan2025 02:41:44.607] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Romeo'/12252, l='ServerLevel[world]', x=-1375.99, y=67.00, z=-160.27] died, message: 'Romeo was slain by Zombie'
+[16Jan2025 02:41:44.607] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Romeo'/12252, l='ServerLevel[world]', x=-1375.99, y=67.00, z=-160.27] died: Romeo was slain by Zombie
+[16Jan2025 02:41:46.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yizus has made the advancement [Monster Hunter]
+[16Jan2025 02:41:46.757] [Server thread/WARN] [tombstone/]: The death event of the player Yizus was canceled by another mod
+[16Jan2025 02:41:46.767] [Server thread/INFO] [tombstone/]: The player Yizus has successfully been saved
+[16Jan2025 02:41:53.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yizus has made the advancement [Knowledge of Death]
+[16Jan2025 02:41:53.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yizus has reached the goal [Chain Death]
+[16Jan2025 02:41:53.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yizus was slain by Skeleton
+[16Jan2025 02:41:54.651] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Stanislao'/12295, l='ServerLevel[world]', x=-1468.70, y=70.77, z=-211.40] died, message: 'Stanislao was slain by Zombie'
+[16Jan2025 02:41:54.651] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Stanislao'/12295, l='ServerLevel[world]', x=-1468.70, y=70.77, z=-211.40] died: Stanislao was slain by Zombie
+[16Jan2025 02:42:19.603] [Server thread/WARN] [tombstone/]: The death event of the player Alexterminium was canceled by another mod
+[16Jan2025 02:42:19.615] [Server thread/INFO] [tombstone/]: The player Alexterminium has successfully been saved
+[16Jan2025 02:42:20.003] [Server thread/WARN] [tombstone/]: The death event of the player Yizus was canceled by another mod
+[16Jan2025 02:42:20.014] [Server thread/INFO] [tombstone/]: The player Yizus has successfully been saved
+[16Jan2025 02:42:27.711] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Gaspare'/12253, l='ServerLevel[world]', x=-1381.01, y=64.00, z=-258.45] died, message: 'Gaspare was slain by Zombie Bruiser'
+[16Jan2025 02:42:27.711] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Gaspare'/12253, l='ServerLevel[world]', x=-1381.01, y=64.00, z=-258.45] died: Gaspare was slain by Zombie Bruiser
+[16Jan2025 02:42:28.803] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Giancarlo'/12219, l='ServerLevel[world]', x=-1354.48, y=64.94, z=-227.44] died, message: 'Giancarlo was slain by Zombie'
+[16Jan2025 02:42:28.803] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Giancarlo'/12219, l='ServerLevel[world]', x=-1354.48, y=64.94, z=-227.44] died: Giancarlo was slain by Zombie
+[16Jan2025 02:42:29.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yizus was slain by Skeleton
+[16Jan2025 02:42:58.212] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Consiglio'/12230, l='ServerLevel[world]', x=-1363.49, y=66.00, z=-222.06] died, message: 'Consiglio was slain by Zombie'
+[16Jan2025 02:42:58.213] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Consiglio'/12230, l='ServerLevel[world]', x=-1363.49, y=66.00, z=-222.06] died: Consiglio was slain by Zombie
+[16Jan2025 02:43:05.505] [Server thread/WARN] [tombstone/]: The death event of the player Yizus was canceled by another mod
+[16Jan2025 02:43:05.515] [Server thread/INFO] [tombstone/]: The player Yizus has successfully been saved
+[16Jan2025 02:43:06.450] [Server thread/WARN] [tombstone/]: The death event of the player Alexterminium was canceled by another mod
+[16Jan2025 02:43:06.462] [Server thread/INFO] [tombstone/]: The player Alexterminium has successfully been saved
+[16Jan2025 02:43:08.753] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Brunellesco'/12229, l='ServerLevel[world]', x=-1373.94, y=65.00, z=-224.70] died, message: 'Brunellesco was slain by Zombie'
+[16Jan2025 02:43:08.753] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Brunellesco'/12229, l='ServerLevel[world]', x=-1373.94, y=65.00, z=-224.70] died: Brunellesco was slain by Zombie
+[16Jan2025 02:43:09.852] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Calcedonio'/12177, l='ServerLevel[world]', x=-1375.74, y=65.56, z=-222.97] died, message: 'Calcedonio was slain by Zombie'
+[16Jan2025 02:43:09.853] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Calcedonio'/12177, l='ServerLevel[world]', x=-1375.74, y=65.56, z=-222.97] died: Calcedonio was slain by Zombie
+[16Jan2025 02:43:13.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yizus was slain by Skeleton
+[16Jan2025 02:43:23.655] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Sauro'/12172, l='ServerLevel[world]', x=-1375.92, y=65.00, z=-224.26] died, message: 'Sauro was slain by Zombie'
+[16Jan2025 02:43:23.655] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Sauro'/12172, l='ServerLevel[world]', x=-1375.92, y=65.00, z=-224.26] died: Sauro was slain by Zombie
