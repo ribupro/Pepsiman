@@ -376,6 +376,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2025-01-16 02:39:44 +0000",
+      "sweet_berries": "2025-01-16 03:16:27 +0000",
       "bread": "2025-01-16 02:31:48 +0000"
     },
     "done": false
@@ -843,6 +844,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-01-16 03:14:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2025-01-16 02:44:52 +0000"
@@ -942,6 +949,12 @@
   "minecraft:recipes/food/cooked_salmon": {
     "criteria": {
       "has_salmon": "2025-01-16 02:44:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-01-16 03:04:39 +0000"
     },
     "done": true
   },
@@ -1158,6 +1171,12 @@
   "regions_unexplored:recipes/transportation/baobab_boat": {
     "criteria": {
       "in_water": "2025-01-16 02:47:34 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/potions": {
+    "criteria": {
+      "has_item": "2025-01-16 03:14:49 +0000"
     },
     "done": true
   },
