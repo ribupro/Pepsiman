@@ -53,6 +53,8 @@
       "minecraft:lukewarm_ocean": "2025-01-16 03:32:45 +0000",
       "minecraft:river": "2025-01-16 03:32:33 +0000",
       "minecraft:jungle": "2025-01-16 03:01:43 +0000",
+      "minecraft:ocean": "2025-01-16 03:52:14 +0000",
+      "minecraft:flower_forest": "2025-01-16 03:53:11 +0000",
       "minecraft:savanna": "2025-01-16 03:15:45 +0000"
     },
     "done": false
@@ -77,7 +79,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "bread": "2025-01-16 03:16:52 +0000"
+      "bread": "2025-01-16 03:16:52 +0000",
+      "suspicious_stew": "2025-01-16 03:51:54 +0000"
     },
     "done": false
   },
@@ -1029,6 +1032,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/ash": {
+    "criteria": {
+      "has_gunpowder": "2025-01-16 03:50:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2025-01-16 03:36:40 +0000"
@@ -1044,6 +1053,12 @@
   "securitycraft:recipes/misc/portable_tune_player": {
     "criteria": {
       "has_redstone": "2025-01-16 03:36:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-01-16 03:53:25 +0000"
     },
     "done": true
   },
@@ -1071,6 +1086,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-01-16 03:53:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2025-01-16 03:36:20 +0000"
@@ -1080,6 +1101,18 @@
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_string": "2025-01-16 03:40:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-01-16 03:53:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-01-16 03:50:11 +0000"
     },
     "done": true
   },
@@ -1098,6 +1131,12 @@
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2025-01-16 03:36:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-01-16 03:50:11 +0000"
     },
     "done": true
   },
@@ -1134,6 +1173,12 @@
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2025-01-16 03:36:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-01-16 03:50:11 +0000"
     },
     "done": true
   },
@@ -1203,6 +1248,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-01-16 03:53:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_bookshelf": {
     "criteria": {
       "has_book": "2025-01-16 03:41:08 +0000"
@@ -1263,9 +1314,30 @@
     },
     "done": true
   },
+  "regions_unexplored:regions_explored": {
+    "criteria": {
+      "barley_fields": "2025-01-16 03:50:40 +0000",
+      "grassy_beach": "2025-01-16 03:50:30 +0000",
+      "ochard": "2025-01-16 03:52:04 +0000",
+      "flower_fields": "2025-01-16 03:52:00 +0000"
+    },
+    "done": false
+  },
   "securitycraft:recipes/misc/claymore": {
     "criteria": {
       "has_redstone": "2025-01-16 03:36:20 +0000"
+    },
+    "done": true
+  },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2025-01-16 03:50:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-01-16 03:50:11 +0000"
     },
     "done": true
   },
@@ -1286,6 +1358,21 @@
       "has_redstone": "2025-01-16 03:36:20 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-01-16 03:50:12 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:pioneer": {
+    "criteria": {
+      "barley_fields": "2025-01-16 03:50:40 +0000",
+      "grassy_beach": "2025-01-16 03:50:30 +0000",
+      "ochard": "2025-01-16 03:52:04 +0000",
+      "flower_fields": "2025-01-16 03:52:00 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
@@ -1308,6 +1395,18 @@
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-01-16 03:36:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2025-01-16 03:51:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-01-16 03:50:11 +0000"
     },
     "done": true
   },

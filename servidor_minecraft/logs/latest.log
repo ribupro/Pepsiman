@@ -2467,3 +2467,93 @@ com.google.gson.JsonSyntaxException: Unknown item 'mekanism:alloy_reinforced'
 [16Jan2025 03:44:06.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andrexo16 was slain by Zombie
 [16Jan2025 03:44:09.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jonico_10 fell from a high place
 [16Jan2025 03:44:15.860] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1bbf5e82[id=<null>,name=2103_,properties={},legacy=false] (/127.181.195.113:38165) lost connection: Disconnected
+[16Jan2025 03:44:50.313] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1572be77[id=<null>,name=2103_,properties={},legacy=false] (/127.181.195.113:40715) lost connection: Disconnected
+[16Jan2025 03:45:05.354] [Server thread/WARN] [tombstone/]: The death event of the player Andrexo16 was canceled by another mod
+[16Jan2025 03:45:05.375] [Server thread/INFO] [tombstone/]: The player Andrexo16 has successfully been saved
+[16Jan2025 03:45:11.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andrexo16 withered away
+[16Jan2025 03:45:12.064] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 2103_[/127.181.195.113:49781] logged in with entity id 57495 at (81.5, 106.0, 5.5)
+[16Jan2025 03:45:12.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2103_ joined the game
+[16Jan2025 03:45:12.104] [Server thread/INFO] [Jade/]: Syncing config to 2103_ (74fd72c8-5658-3f69-baa5-9c7192198c39)
+[16Jan2025 03:45:16.237] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of 2103_ (18)
+[16Jan2025 03:45:16.237] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to 2103_
+[16Jan2025 03:45:21.807] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 74fd72c8-5658-3f69-baa5-9c7192198c39
+[16Jan2025 03:45:22.806] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 74fd72c8-5658-3f69-baa5-9c7192198c39
+[16Jan2025 03:45:22.807] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 2103_ (74fd72c8-5658-3f69-baa5-9c7192198c39) successfully connected to voice chat
+[16Jan2025 03:45:49.648] [Server thread/WARN] [tombstone/]: The death event of the player Andrexo16 was canceled by another mod
+[16Jan2025 03:45:49.666] [Server thread/INFO] [tombstone/]: The player Andrexo16 has successfully been saved
+[16Jan2025 03:45:51.372] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player e0be6775-2aa6-3990-b9f5-d7c77c9dfa42 timed out
+[16Jan2025 03:45:51.373] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Suzu_iS
+[16Jan2025 03:45:51.373] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Suzu_iS
+[16Jan2025 03:45:51.373] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 74fd72c8-5658-3f69-baa5-9c7192198c39 timed out
+[16Jan2025 03:45:51.373] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player 2103_
+[16Jan2025 03:45:51.373] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to 2103_
+[16Jan2025 03:45:51.374] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 4bd31f3e-4ca1-3822-98bf-aa565b844056 timed out
+[16Jan2025 03:45:51.374] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Andrexo16
+[16Jan2025 03:45:51.374] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Andrexo16
+[16Jan2025 03:45:51.375] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player e9ec43e4-4a44-3c76-b83a-22ecd043eeb6 timed out
+[16Jan2025 03:45:51.375] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Jonico_10
+[16Jan2025 03:45:51.375] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Jonico_10
+[16Jan2025 03:45:51.375] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ed6c5568-96fa-38fd-ad29-941150deb41a timed out
+[16Jan2025 03:45:51.375] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Alexterminium
+[16Jan2025 03:45:51.375] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Alexterminium
+[16Jan2025 03:45:51.603] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e9ec43e4-4a44-3c76-b83a-22ecd043eeb6
+[16Jan2025 03:45:51.664] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e0be6775-2aa6-3990-b9f5-d7c77c9dfa42
+[16Jan2025 03:45:51.682] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ed6c5568-96fa-38fd-ad29-941150deb41a
+[16Jan2025 03:45:51.791] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 74fd72c8-5658-3f69-baa5-9c7192198c39
+[16Jan2025 03:45:52.627] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4bd31f3e-4ca1-3822-98bf-aa565b844056
+[16Jan2025 03:45:52.666] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e0be6775-2aa6-3990-b9f5-d7c77c9dfa42
+[16Jan2025 03:45:52.666] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Suzu_iS (e0be6775-2aa6-3990-b9f5-d7c77c9dfa42) successfully connected to voice chat
+[16Jan2025 03:45:52.678] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ed6c5568-96fa-38fd-ad29-941150deb41a
+[16Jan2025 03:45:52.678] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Alexterminium (ed6c5568-96fa-38fd-ad29-941150deb41a) successfully connected to voice chat
+[16Jan2025 03:45:52.797] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 74fd72c8-5658-3f69-baa5-9c7192198c39
+[16Jan2025 03:45:52.798] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 2103_ (74fd72c8-5658-3f69-baa5-9c7192198c39) successfully connected to voice chat
+[16Jan2025 03:45:53.623] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4bd31f3e-4ca1-3822-98bf-aa565b844056
+[16Jan2025 03:45:53.623] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Andrexo16 (4bd31f3e-4ca1-3822-98bf-aa565b844056) successfully connected to voice chat
+[16Jan2025 03:45:55.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andrexo16 withered away
+[16Jan2025 03:46:34.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andrexo16 has reached the goal [Horror Under the Mantle]
+[16Jan2025 03:46:44.675] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e9ec43e4-4a44-3c76-b83a-22ecd043eeb6
+[16Jan2025 03:46:44.676] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Jonico_10 (e9ec43e4-4a44-3c76-b83a-22ecd043eeb6) successfully connected to voice chat
+[16Jan2025 03:46:55.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jonico_10 has made the advancement [Best Friends Forever]
+[16Jan2025 03:46:56.707] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player e9ec43e4-4a44-3c76-b83a-22ecd043eeb6 timed out
+[16Jan2025 03:46:56.707] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Jonico_10
+[16Jan2025 03:46:56.708] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Jonico_10
+[16Jan2025 03:46:57.018] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e9ec43e4-4a44-3c76-b83a-22ecd043eeb6
+[16Jan2025 03:46:58.073] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e9ec43e4-4a44-3c76-b83a-22ecd043eeb6
+[16Jan2025 03:46:58.074] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Jonico_10 (e9ec43e4-4a44-3c76-b83a-22ecd043eeb6) successfully connected to voice chat
+[16Jan2025 03:47:16.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2103_ has made the advancement [Minecraft Comes Alive]
+[16Jan2025 03:47:43.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <2103_> holaaa mundo
+[16Jan2025 03:47:45.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <2103_> XD
+[16Jan2025 03:47:49.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexterminium> XD finalmente
+[16Jan2025 03:47:53.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <2103_> sisi
+[16Jan2025 03:47:56.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andrexo16 has reached the goal [Protected by Darkness]
+[16Jan2025 03:48:57.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2103_ has made the advancement [Stone Age]
+[16Jan2025 03:49:14.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2103_ has made the advancement [Getting an Upgrade]
+[16Jan2025 03:50:09.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Suzu_iS has made the advancement [Disme A Dozen]
+[16Jan2025 03:50:37.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andrexo16 has made the advancement [Disme A Dozen]
+[16Jan2025 03:50:52.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2103_ has made the advancement [Acquire Hardware]
+[16Jan2025 03:50:59.778] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Jonico_10) moved wrongly! 0.25173454041841836
+[16Jan2025 03:50:59.780] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Jonico_10) moved wrongly! 0.7375687273877389
+[16Jan2025 03:50:59.831] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Jonico_10) moved wrongly! 1.0
+[16Jan2025 03:50:59.918] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Jonico_10) moved wrongly! 1.0
+[16Jan2025 03:50:59.961] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Jonico_10) moved wrongly! 1.0
+[16Jan2025 03:51:00.022] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Jonico_10) moved wrongly! 1.0
+[16Jan2025 03:51:12.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jonico_10> capibaraaaaaaaaa
+[16Jan2025 03:51:28.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] EN 10 MINUTOS SE APAGA EL SERVER
+[16Jan2025 03:51:34.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <2103_> queee
+[16Jan2025 03:51:52.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2103_ has made the advancement [Isn't It Iron Pick]
+[16Jan2025 03:51:56.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <2103_> acabo de entrar
+[16Jan2025 03:51:57.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <2103_> XD
+[16Jan2025 03:52:12.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] RECUERDEN A PARTIR DE MAÑANA EL HORARIO ES DE 9 AM A 9 PM HORA COL
+[16Jan2025 03:52:20.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <2103_> vale
+[16Jan2025 03:52:31.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jonico_10> sino hay apertura la huelga continua
+[16Jan2025 03:53:27.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <2103_> cuanto falta?
+[16Jan2025 03:53:34.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2103_ has made the advancement ['X' Marks the Spot]
+[16Jan2025 03:53:44.157] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=26, z=-592}
+[16Jan2025 03:53:44.157] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=27, z=-592}
+[16Jan2025 03:53:44.158] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-275, y=27, z=-591}
+[16Jan2025 03:53:45.293] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Carmelindo'/59153, l='ServerLevel[world]', x=-1415.93, y=63.10, z=-270.49] died, message: 'Carmelindo was slain by Crocodile'
+[16Jan2025 03:53:45.293] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Carmelindo'/59153, l='ServerLevel[world]', x=-1415.93, y=63.10, z=-270.49] died: Carmelindo was slain by Crocodile
+[16Jan2025 03:53:51.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Suzu_iS has made the advancement [Stone Age]
+[16Jan2025 03:54:05.210] [Server thread/WARN] [tombstone/]: The death event of the player Andrexo16 was canceled by another mod
+[16Jan2025 03:54:05.220] [Server thread/INFO] [tombstone/]: The player Andrexo16 has successfully been saved
+[16Jan2025 03:54:11.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andrexo16 was slain by Bison

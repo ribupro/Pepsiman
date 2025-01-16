@@ -63,6 +63,7 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "rocky_meadow": "2025-01-16 03:52:39 +0000",
       "deciduous_forest": "2025-01-16 02:15:12 +0000",
       "bamboo_forest": "2025-01-16 02:48:51 +0000",
       "grassland": "2025-01-16 02:44:23 +0000",
@@ -72,6 +73,7 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "rocky_meadow": "2025-01-16 03:52:39 +0000",
       "deciduous_forest": "2025-01-16 02:15:12 +0000",
       "bamboo_forest": "2025-01-16 02:48:51 +0000",
       "grassland": "2025-01-16 02:44:23 +0000",
@@ -3078,15 +3080,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-01-16 03:44:51 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:horror_underthe_mantle": {
+    "criteria": {
+      "horror_underthe_mantle_0": "2025-01-16 03:46:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smoker": {
     "criteria": {
       "has_furnace": "2025-01-16 03:36:31 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-01-16 03:45:24 +0000"
+    },
+    "done": true
+  },
   "creategoggles:recipes/nbtcrafting/goggle_iron_helmet": {
     "criteria": {
       "has_helmet": "2025-01-16 03:38:39 +0000"
+    },
+    "done": true
+  },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2025-01-16 03:50:37 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:protectedby_darkness": {
+    "criteria": {
+      "protectedby_darkness_0": "2025-01-16 03:47:56 +0000"
     },
     "done": true
   },
