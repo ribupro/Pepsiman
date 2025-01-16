@@ -77,7 +77,9 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "shrubland": "2025-01-16 03:54:01 +0000",
       "rocky_meadow": "2025-01-16 03:47:06 +0000",
+      "magnolia_highlands": "2025-01-16 15:09:02 +0000",
       "deciduous_forest": "2025-01-16 02:54:16 +0000",
       "bamboo_forest": "2025-01-16 03:46:00 +0000",
       "grassland": "2025-01-16 03:17:42 +0000",
@@ -87,7 +89,9 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "shrubland": "2025-01-16 03:54:01 +0000",
       "rocky_meadow": "2025-01-16 03:47:06 +0000",
+      "magnolia_highlands": "2025-01-16 15:09:02 +0000",
       "deciduous_forest": "2025-01-16 02:54:16 +0000",
       "bamboo_forest": "2025-01-16 03:46:00 +0000",
       "grassland": "2025-01-16 03:17:42 +0000",
@@ -1564,12 +1568,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_nugget_from_blasting": {
-    "criteria": {
-      "has_golden_leggings": "2025-01-16 03:47:42 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/cherry_boat": {
     "criteria": {
       "in_water": "2025-01-16 03:38:49 +0000"
@@ -1594,33 +1592,15 @@
     },
     "done": true
   },
-  "minecraft:husbandry/tame_an_animal": {
-    "criteria": {
-      "tamed_animal": "2025-01-16 03:46:55 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/transportation/larch_boat": {
     "criteria": {
       "in_water": "2025-01-16 03:38:49 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/ornate_iron_window": {
-    "criteria": {
-      "has_ingredient": "2025-01-16 03:47:47 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2025-01-16 03:38:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
-    "criteria": {
-      "has_iron_nugget": "2025-01-16 03:47:47 +0000"
     },
     "done": true
   },
@@ -1648,12 +1628,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_nugget_from_smelting": {
-    "criteria": {
-      "has_golden_leggings": "2025-01-16 03:47:42 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/transportation/palm_boat": {
     "criteria": {
       "in_water": "2025-01-16 03:38:49 +0000"
@@ -1675,12 +1649,6 @@
   "regions_unexplored:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-01-16 03:38:49 +0000"
-    },
-    "done": true
-  },
-  "creategoggles:recipes/nbtcrafting/golden_backtank": {
-    "criteria": {
-      "has_backtank": "2025-01-16 03:47:42 +0000"
     },
     "done": true
   },
@@ -1741,6 +1709,66 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-01-16 03:38:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-01-16 03:46:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_leggings": "2025-01-16 03:47:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_leggings": "2025-01-16 03:47:42 +0000"
+    },
+    "done": true
+  },
+  "creategoggles:recipes/nbtcrafting/golden_backtank": {
+    "criteria": {
+      "has_backtank": "2025-01-16 03:47:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/ornate_iron_window": {
+    "criteria": {
+      "has_ingredient": "2025-01-16 03:47:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-01-16 03:47:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-01-16 15:05:30 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/bouquet": {
+    "criteria": {
+      "has_item": "2025-01-16 15:05:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/purple_dye_from_hyssop": {
+    "criteria": {
+      "has_hyssop": "2025-01-16 15:12:43 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/magenta_dye_from_fireweed": {
+    "criteria": {
+      "has_fireweed": "2025-01-16 15:14:43 +0000"
     },
     "done": true
   },
