@@ -417,3 +417,41 @@ com.google.gson.JsonSyntaxException: Unknown item 'mekanism:alloy_reinforced'
 [16Jan2025 02:09:39.758] [Server thread/INFO] [tombstone/]: The player Alexterminium has successfully been saved
 [16Jan2025 02:10:05.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexterminium was slain by Decrepit Skeleton
 [16Jan2025 02:10:05.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexterminium has made the advancement [Your First Grave]
+[16Jan2025 02:13:12.905] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Andrexo16[/127.226.76.9:47819] logged in with entity id 3160 at (81.5, 106.0, 5.5)
+[16Jan2025 02:13:12.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andrexo16 joined the game
+[16Jan2025 02:13:12.952] [Server thread/INFO] [Jade/]: Syncing config to Andrexo16 (4bd31f3e-4ca1-3822-98bf-aa565b844056)
+[16Jan2025 02:13:15.700] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Andrexo16 (18)
+[16Jan2025 02:13:15.701] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Andrexo16
+[16Jan2025 02:13:20.696] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4bd31f3e-4ca1-3822-98bf-aa565b844056
+[16Jan2025 02:13:21.678] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4bd31f3e-4ca1-3822-98bf-aa565b844056
+[16Jan2025 02:13:21.678] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Andrexo16 (4bd31f3e-4ca1-3822-98bf-aa565b844056) successfully connected to voice chat
+[16Jan2025 02:15:12.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andrexo16 has made the advancement [Minecraft Comes Alive]
+[16Jan2025 02:15:57.803] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Yizus[/127.11.117.120:36653] logged in with entity id 3942 at (81.5, 106.0, 5.5)
+[16Jan2025 02:15:57.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yizus joined the game
+[16Jan2025 02:15:57.843] [Server thread/INFO] [Jade/]: Syncing config to Yizus (c99fd906-1579-3341-9a95-6d3f690795f8)
+[16Jan2025 02:16:01.414] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Yizus (18)
+[16Jan2025 02:16:01.414] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Yizus
+[16Jan2025 02:16:07.994] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player c99fd906-1579-3341-9a95-6d3f690795f8
+[16Jan2025 02:16:08.994] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player c99fd906-1579-3341-9a95-6d3f690795f8
+[16Jan2025 02:16:08.995] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Yizus (c99fd906-1579-3341-9a95-6d3f690795f8) successfully connected to voice chat
+[16Jan2025 02:16:59.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andrexo16 has made the advancement ['X' Marks the Spot]
+[16Jan2025 02:17:36.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andrexo16 has made the advancement [Sweet Dreams]
+[16Jan2025 02:17:49.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yizus has made the advancement [Minecraft Comes Alive]
+[16Jan2025 02:18:05.605] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Xenofon'/1289, l='ServerLevel[world]', x=-408.30, y=64.00, z=176.58] died, message: 'Xenofon was slain by Zombie'
+[16Jan2025 02:18:36.348] [Server thread/WARN] [tombstone/]: The death event of the player Yizus was canceled by another mod
+[16Jan2025 02:18:36.356] [Server thread/INFO] [tombstone/]: The player Yizus has successfully been saved
+[16Jan2025 02:18:58.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yizus was slain by Zombie
+[16Jan2025 02:18:58.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yizus has made the advancement [Your First Grave]
+[16Jan2025 02:19:06.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yizus has reached the goal [Here They Come]
+[16Jan2025 02:19:10.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yizus has made the advancement [Alex's Mobs]
+[16Jan2025 02:19:13.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Alexterminium a server operator
+[16Jan2025 02:19:23.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Teleported Alexterminium to Andrexo16]
+[16Jan2025 02:19:56.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yizus has made the advancement ['X' Marks the Spot]
+[16Jan2025 02:21:07.453] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Panayiotis'/1428, l='ServerLevel[world]', x=-382.64, y=79.56, z=122.70] died, message: 'Panayiotis was slain by Zombie'
+[16Jan2025 02:21:12.001] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Lia'/1429, l='ServerLevel[world]', x=-383.39, y=79.00, z=116.83] died, message: 'Lia was slain by Zombie'
+[16Jan2025 02:21:14.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yizus has made the advancement [Sweet Dreams]
+[16Jan2025 02:21:22.966] [Server thread/WARN] [tombstone/]: The death event of the player Andrexo16 was canceled by another mod
+[16Jan2025 02:21:22.973] [Server thread/INFO] [tombstone/]: The player Andrexo16 has successfully been saved
+[16Jan2025 02:21:35.491] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [structure_gel:main,sophisticatedbackpacks:channel,bettermobs:bettermobs,minecraft:treechop-channel,cataclysm:main_channel,lionfishapi:main_channel,forge:tier_sorting,automobility:main,alexsmobs:main_channel,playerrevive:main,creativecore:main,epicfight:network_manager,lootr:main_network_channel,create:main,geckolib:main,carryon:carryonpackets,citadel:main_channel,securitycraft:securitycraft,born_in_chaos_v1:born_in_chaos_v1,curios:main,tombstone:tombstone_channel,mca:main,videoplayer:network,sophisticatedcore:channel,patchouli:main,waystones:network] rejected vanilla connections
+[16Jan2025 02:21:35.492] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/127.30.33.86:47545] Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
+[16Jan2025 02:22:08.700] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Platon'/1383, l='ServerLevel[world]', x=-327.70, y=90.21, z=256.43] died, message: 'Platon was slain by Swarmer'
