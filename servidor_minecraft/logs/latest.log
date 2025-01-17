@@ -1,103 +1,105 @@
-[17Jan2025 16:06:13.818] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[17Jan2025 16:06:13.822] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.13 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
-[17Jan2025 16:06:14.459] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[17Jan2025 16:06:14.507] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Pepsiman/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[17Jan2025 16:06:14.857] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Pepsiman/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[17Jan2025 16:06:14.859] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Pepsiman/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[17Jan2025 16:06:14.860] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Pepsiman/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[17Jan2025 16:06:14.861] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Pepsiman/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[17Jan2025 16:06:15.081] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[17Jan2025 16:06:15.083] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 9 dependencies adding them to mods collection
-[17Jan2025 16:06:17.886] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[17Jan2025 16:06:18.106] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[17Jan2025 16:06:18.224] [main/INFO] [com.abdelaziz.saturn.common.Saturn/]: Loaded Saturn config file with 4 configurable options
-[17Jan2025 16:06:18.293] [main/INFO] [Radium Config/]: Loaded configuration file for Radium: 125 options available, 1 override(s) found
-[17Jan2025 16:06:18.407] [main/INFO] [fpsreducer/]: OptiFine was NOT detected.
-[17Jan2025 16:06:18.411] [main/INFO] [fpsreducer/]: OptiFabric was NOT detected.
-[17Jan2025 16:06:18.431] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 117 options available, 0 override(s) found
-[17Jan2025 16:06:18.508] [main/INFO] [Embeddium Extra/]: Loaded configuration file for Sodium Extra: 35 options available, 0 override(s) found
-[17Jan2025 16:06:21.013] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
-[17Jan2025 16:06:21.331] [main/INFO] [Smooth Boot (Reloaded)/]: Smooth Boot (Reloaded) config initialized
-[17Jan2025 16:06:24.639] [main/WARN] [mixin/]: @Final field f_31427_:[I in mixins.epicfight.json:MixinWitherBoss should be final
-[17Jan2025 16:06:24.640] [main/WARN] [mixin/]: @Final field f_31428_:[I in mixins.epicfight.json:MixinWitherBoss should be final
-[17Jan2025 16:06:26.847] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
-[17Jan2025 16:06:26.848] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
-[17Jan2025 16:06:26.848] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
-[17Jan2025 16:06:26.849] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
-[17Jan2025 16:06:28.331] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
-[17Jan2025 16:06:28.420] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
-[17Jan2025 16:06:28.621] [modloading-worker-0/INFO] [epicfight/]: Loaded mod compat: GeckolibCompat
-[17Jan2025 16:06:28.857] [modloading-worker-0/INFO] [com.github.NGoedix.watchvideo.Reference/]: Initializing mod...
-[17Jan2025 16:06:28.874] [modloading-worker-0/INFO] [de.keksuccino.melody.Melody/]: [MELODY] Disabling Melody since it's loaded server-side.
-[17Jan2025 16:06:28.904] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[17Jan2025 16:06:28.904] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[17Jan2025 16:06:28.914] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Successfully initialized!
-[17Jan2025 16:06:28.918] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Server-side libs ready to use!
-[17Jan2025 16:06:30.139] [modloading-worker-0/INFO] [de.keksuccino.fancymenu.FancyMenu/]: [FANCYMENU] Loading v3.3.2 in server-side mode on FORGE!
-[17Jan2025 16:06:30.512] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[17Jan2025 16:06:30.778] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id magistuarmory:packet_long_reach_attack
-[17Jan2025 16:06:30.779] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id magistuarmory:packet_lance_collision
-[17Jan2025 16:06:31.423] [modloading-worker-0/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class yesman.epicfight.world.capabilities.entitypatch.player.PlayerPatch
-[17Jan2025 16:06:31.580] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: The object net.minecraft.sounds.SoundEvent@18afb626 has been registered twice for the same name treechop:chop_wood.
-[17Jan2025 16:06:35.481] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:loot_table_alias
-[17Jan2025 16:06:35.491] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:data_handler_type
-[17Jan2025 16:06:35.491] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:dynamic_spawner
-[17Jan2025 16:06:35.493] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:jigsaw_type
-[17Jan2025 16:06:35.689] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.mcreator.borninchaosv.entity.BabySpiderEntity from class net.mcreator.borninchaosv.entity.MotherSpiderEntity
-[17Jan2025 16:06:35.713] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[17Jan2025 16:06:35.714] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[17Jan2025 16:06:35.714] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[17Jan2025 16:06:35.714] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[17Jan2025 16:06:35.714] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[17Jan2025 16:06:35.715] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[17Jan2025 16:06:35.715] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[17Jan2025 16:06:35.715] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
-[17Jan2025 16:06:35.717] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[17Jan2025 16:06:35.717] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[17Jan2025 16:06:35.717] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[17Jan2025 16:06:35.717] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[17Jan2025 16:06:35.717] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[17Jan2025 16:06:35.718] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[17Jan2025 16:06:35.718] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[17Jan2025 16:06:35.718] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[17Jan2025 16:06:35.718] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[17Jan2025 16:06:35.718] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[17Jan2025 16:06:35.718] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[17Jan2025 16:06:35.718] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
-[17Jan2025 16:06:35.719] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[17Jan2025 16:06:35.723] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[17Jan2025 16:06:35.723] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
-[17Jan2025 16:06:35.723] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[17Jan2025 16:06:35.723] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
-[17Jan2025 16:06:35.723] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
-[17Jan2025 16:06:35.723] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[17Jan2025 16:06:35.724] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[17Jan2025 16:06:35.724] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[17Jan2025 16:06:35.724] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[17Jan2025 16:06:35.724] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[17Jan2025 16:06:35.726] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[17Jan2025 16:06:35.731] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[17Jan2025 16:06:35.731] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[17Jan2025 16:06:35.732] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[17Jan2025 16:06:35.732] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[17Jan2025 16:06:35.732] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[17Jan2025 16:06:35.733] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.GrimReaperEntity from class forge.net.mca.util.network.datasync.CEnumParameter
-[17Jan2025 16:06:35.746] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
-[17Jan2025 16:06:35.746] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
-[17Jan2025 16:06:35.746] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
-[17Jan2025 16:06:35.747] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
-[17Jan2025 16:06:35.747] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
-[17Jan2025 16:06:35.747] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
-[17Jan2025 16:06:35.747] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
-[17Jan2025 16:06:35.747] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
-[17Jan2025 16:06:35.747] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
-[17Jan2025 16:06:36.018] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
-[17Jan2025 16:06:36.108] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
-[17Jan2025 16:06:36.127] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 0 plugin(s)
-[17Jan2025 16:06:36.128] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
-[17Jan2025 16:06:36.128] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 0 plugin(s)
-[17Jan2025 16:06:36.346] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [saturn] Starting version check at https://github.com/AbdElAziz333/Saturn/raw/mc1.20.1/dev/updates.json
-[17Jan2025 16:06:36.981] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[17Jan2025 19:07:50.984] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[17Jan2025 19:07:50.988] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.13 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
+[17Jan2025 19:07:58.953] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[17Jan2025 19:07:59.100] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Pepsiman/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[17Jan2025 19:07:59.774] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Pepsiman/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[17Jan2025 19:07:59.776] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Pepsiman/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[17Jan2025 19:07:59.778] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Pepsiman/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[17Jan2025 19:07:59.779] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Pepsiman/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[17Jan2025 19:08:00.249] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[17Jan2025 19:08:00.251] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 9 dependencies adding them to mods collection
+[17Jan2025 19:08:03.901] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[17Jan2025 19:08:04.163] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[17Jan2025 19:08:04.449] [main/INFO] [com.abdelaziz.saturn.common.Saturn/]: Loaded Saturn config file with 4 configurable options
+[17Jan2025 19:08:04.561] [main/INFO] [Radium Config/]: Loaded configuration file for Radium: 125 options available, 1 override(s) found
+[17Jan2025 19:08:04.767] [main/INFO] [fpsreducer/]: OptiFine was NOT detected.
+[17Jan2025 19:08:04.770] [main/INFO] [fpsreducer/]: OptiFabric was NOT detected.
+[17Jan2025 19:08:04.790] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 117 options available, 0 override(s) found
+[17Jan2025 19:08:04.856] [main/INFO] [Embeddium Extra/]: Loaded configuration file for Sodium Extra: 35 options available, 0 override(s) found
+[17Jan2025 19:08:07.800] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[17Jan2025 19:08:08.119] [main/INFO] [Smooth Boot (Reloaded)/]: Smooth Boot (Reloaded) config initialized
+[17Jan2025 19:08:12.521] [main/WARN] [mixin/]: @Final field f_31427_:[I in mixins.epicfight.json:MixinWitherBoss should be final
+[17Jan2025 19:08:12.521] [main/WARN] [mixin/]: @Final field f_31428_:[I in mixins.epicfight.json:MixinWitherBoss should be final
+[17Jan2025 19:08:15.387] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
+[17Jan2025 19:08:15.388] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
+[17Jan2025 19:08:15.388] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
+[17Jan2025 19:08:15.388] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
+[17Jan2025 19:08:16.911] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
+[17Jan2025 19:08:16.930] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
+[17Jan2025 19:08:17.183] [modloading-worker-0/INFO] [epicfight/]: Loaded mod compat: GeckolibCompat
+[17Jan2025 19:08:17.503] [modloading-worker-0/INFO] [com.github.NGoedix.watchvideo.Reference/]: Initializing mod...
+[17Jan2025 19:08:17.529] [modloading-worker-0/INFO] [de.keksuccino.melody.Melody/]: [MELODY] Disabling Melody since it's loaded server-side.
+[17Jan2025 19:08:17.541] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[17Jan2025 19:08:17.541] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[17Jan2025 19:08:17.632] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Successfully initialized!
+[17Jan2025 19:08:17.632] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Server-side libs ready to use!
+[17Jan2025 19:08:18.815] [modloading-worker-0/INFO] [de.keksuccino.fancymenu.FancyMenu/]: [FANCYMENU] Loading v3.3.2 in server-side mode on FORGE!
+[17Jan2025 19:08:19.135] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[17Jan2025 19:08:19.474] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id magistuarmory:packet_long_reach_attack
+[17Jan2025 19:08:19.477] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id magistuarmory:packet_lance_collision
+[17Jan2025 19:08:20.327] [modloading-worker-0/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class yesman.epicfight.world.capabilities.entitypatch.player.PlayerPatch
+[17Jan2025 19:08:20.520] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: The object net.minecraft.sounds.SoundEvent@523d07cc has been registered twice for the same name treechop:chop_wood.
+[17Jan2025 19:08:25.471] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:loot_table_alias
+[17Jan2025 19:08:25.486] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:data_handler_type
+[17Jan2025 19:08:25.487] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:dynamic_spawner
+[17Jan2025 19:08:25.489] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:jigsaw_type
+[17Jan2025 19:08:25.701] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.mcreator.borninchaosv.entity.BabySpiderEntity from class net.mcreator.borninchaosv.entity.MotherSpiderEntity
+[17Jan2025 19:08:25.724] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[17Jan2025 19:08:25.724] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[17Jan2025 19:08:25.724] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[17Jan2025 19:08:25.725] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[17Jan2025 19:08:25.725] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[17Jan2025 19:08:25.725] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[17Jan2025 19:08:25.725] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[17Jan2025 19:08:25.725] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[17Jan2025 19:08:25.727] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[17Jan2025 19:08:25.727] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[17Jan2025 19:08:25.727] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[17Jan2025 19:08:25.728] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[17Jan2025 19:08:25.730] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[17Jan2025 19:08:25.730] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[17Jan2025 19:08:25.731] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[17Jan2025 19:08:25.731] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[17Jan2025 19:08:25.731] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[17Jan2025 19:08:25.731] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[17Jan2025 19:08:25.731] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[17Jan2025 19:08:25.732] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[17Jan2025 19:08:25.732] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[17Jan2025 19:08:25.737] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[17Jan2025 19:08:25.737] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[17Jan2025 19:08:25.737] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[17Jan2025 19:08:25.737] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[17Jan2025 19:08:25.738] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[17Jan2025 19:08:25.738] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[17Jan2025 19:08:25.738] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[17Jan2025 19:08:25.738] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[17Jan2025 19:08:25.739] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[17Jan2025 19:08:25.739] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[17Jan2025 19:08:25.741] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[17Jan2025 19:08:25.746] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[17Jan2025 19:08:25.746] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[17Jan2025 19:08:25.747] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[17Jan2025 19:08:25.747] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[17Jan2025 19:08:25.747] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[17Jan2025 19:08:25.748] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.GrimReaperEntity from class forge.net.mca.util.network.datasync.CEnumParameter
+[17Jan2025 19:08:25.760] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[17Jan2025 19:08:25.760] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[17Jan2025 19:08:25.760] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[17Jan2025 19:08:25.760] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[17Jan2025 19:08:25.761] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[17Jan2025 19:08:25.761] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[17Jan2025 19:08:25.761] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[17Jan2025 19:08:25.761] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[17Jan2025 19:08:25.761] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[17Jan2025 19:08:26.051] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
+[17Jan2025 19:08:26.377] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
+[17Jan2025 19:08:26.408] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 0 plugin(s)
+[17Jan2025 19:08:26.412] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
+[17Jan2025 19:08:26.412] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 0 plugin(s)
+[17Jan2025 19:08:26.675] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [saturn] Starting version check at https://github.com/AbdElAziz333/Saturn/raw/mc1.20.1/dev/updates.json
+[17Jan2025 19:08:27.199] [modloading-worker-0/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager/]: Got request to register class com.sk89q.worldedit.forge.ForgePlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@782638bc]
+[17Jan2025 19:08:27.214] [modloading-worker-0/INFO] [com.sk89q.worldedit.forge.ForgeWorldEdit/]: WorldEdit for Forge (version 7.2.15+6463-5ca4dff) is loaded
+[17Jan2025 19:08:27.322] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 8 column 1 path $
 	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
@@ -112,213 +114,195 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
 	... 6 more
-[17Jan2025 16:06:36.987] [modloading-worker-0/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager/]: Got request to register class com.sk89q.worldedit.forge.ForgePlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@6630f30a]
-[17Jan2025 16:06:36.988] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [radium] Starting version check at https://api.modrinth.com/updates/radium/forge_updates.json
-[17Jan2025 16:06:36.995] [modloading-worker-0/INFO] [com.sk89q.worldedit.forge.ForgeWorldEdit/]: WorldEdit for Forge (version 7.2.15+6463-5ca4dff) is loaded
-[17Jan2025 16:06:37.066] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[17Jan2025 16:06:37.067] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
-[17Jan2025 16:06:37.067] [main/INFO] [terrablender/]: Registered region regions_unexplored:primary to index 1 for type OVERWORLD
-[17Jan2025 16:06:37.067] [main/INFO] [terrablender/]: Registered region regions_unexplored:secondary to index 2 for type OVERWORLD
-[17Jan2025 16:06:37.068] [main/INFO] [terrablender/]: Registered region regions_unexplored:nether to index 1 for type NETHER
-[17Jan2025 16:06:37.185] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
-[17Jan2025 16:06:37.186] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[17Jan2025 16:06:37.187] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
-[17Jan2025 16:06:37.188] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[17Jan2025 16:06:37.224] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [radium] Found status: AHEAD Current: 0.12.4+git.26c9d8e Target: null
-[17Jan2025 16:06:37.224] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [attributefix] Starting version check at https://updates.blamejared.com/get?n=attributefix&gv=1.20.1
-[17Jan2025 16:06:37.241] [modloading-worker-0/INFO] [AttributeFix/]: Loaded values for 31 compatible attributes.
-[17Jan2025 16:06:37.244] [modloading-worker-0/INFO] [AttributeFix/]: Loaded 31 values from config.
-[17Jan2025 16:06:37.248] [modloading-worker-0/INFO] [AttributeFix/]: Saving config file. 31 entries.
-[17Jan2025 16:06:37.252] [modloading-worker-0/INFO] [AttributeFix/]: Applying changes for 31 attributes.
-[17Jan2025 16:06:37.304] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ht.treechop.compat.Jade
-[17Jan2025 16:06:37.316] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.JadeIntegration
-[17Jan2025 16:06:37.316] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
-[17Jan2025 16:06:37.345] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
-[17Jan2025 16:06:37.350] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
-[17Jan2025 16:06:37.351] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.geforcemods.securitycraft.compat.hudmods.JadeDataProvider
-[17Jan2025 16:06:37.353] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationJade
-[17Jan2025 16:06:37.353] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.JadeAddonsBase
-[17Jan2025 16:06:37.366] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [attributefix] Found status: BETA Current: 21.0.4 Target: 21.0.4
-[17Jan2025 16:06:37.366] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[17Jan2025 16:06:37.558] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.22
-[17Jan2025 16:06:37.559] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Starting version check at http://changelogs.moddinglegacy.com/structure-gel.json
-[17Jan2025 16:06:38.195] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Found status: BETA Current: 2.16.2 Target: null
-[17Jan2025 16:06:38.197] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
-[17Jan2025 16:06:38.325] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: AHEAD Current: 1.20.1-2.5.27 Target: null
-[17Jan2025 16:06:38.326] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dungeons_plus] Starting version check at http://changelogs.moddinglegacy.com/dungeons-plus.json
-[17Jan2025 16:06:38.539] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dungeons_plus] Found status: BETA Current: 1.5.0 Target: null
-[17Jan2025 16:06:38.539] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [smoothboot] Starting version check at https://github.com/AbdElAziz333/SmoothBoot-Reloaded/raw/mc1.20.1/dev/updates.json
-[17Jan2025 16:06:38.704] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [smoothboot] Found status: UP_TO_DATE Current: 0.0.4 Target: null
-[17Jan2025 16:06:38.704] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
-[17Jan2025 16:06:38.845] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Found status: BETA Current: 0.6.11-13 Target: null
-[17Jan2025 16:06:38.845] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
-[17Jan2025 16:06:39.016] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.9.12 Target: null
-[17Jan2025 16:06:39.016] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Starting version check at https://raw.githubusercontent.com/DmitryLovin/pluginUpdate/master/invupdate.json
-[17Jan2025 16:06:39.022] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Found status: UP_TO_DATE Current: 3.4.26 Target: null
-[17Jan2025 16:06:39.022] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[17Jan2025 16:06:39.028] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 8.9.0 Target: null
-[17Jan2025 16:06:39.028] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [embeddium_extra] Starting version check at https://api.modrinth.com/updates/rubidium-extra/forge_updates.json
-[17Jan2025 16:06:39.213] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [embeddium_extra] Found status: UP_TO_DATE Current: 0.5.4.3+mc1.20.1-build.121 Target: null
-[17Jan2025 16:06:39.213] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfurnitures] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/furniture.json
-[17Jan2025 16:06:39.218] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfurnitures] Found status: UP_TO_DATE Current: 3.3.0 Target: null
-[17Jan2025 16:06:41.506] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[17Jan2025 16:06:44.848] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Pepsiman/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23237!/assets/.mcassetsroot' uses unexpected schema
-[17Jan2025 16:06:44.849] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Pepsiman/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23237!/data/.mcassetsroot' uses unexpected schema
-[17Jan2025 16:06:46.522] [main/INFO] [com.sk89q.worldedit.extension.platform.PlatformCommandManager/]: Registering commands with com.sk89q.worldedit.forge.ForgePlatform
-[17Jan2025 16:06:46.601] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
-[17Jan2025 16:06:47.349] [Worker-Main-1/INFO] [epicfight/]: Register animations from epicfight
-[17Jan2025 16:06:47.976] [Worker-Main-1/INFO] [epicfight/]: Register animations from wom
-[17Jan2025 16:06:49.650] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 26 recipes
-[17Jan2025 16:06:49.894] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 4222 advancements
-[17Jan2025 16:06:50.041] [main/WARN] [epicfight/]: Error while deserializing datapack for magistuarmory:silver_morgenstern
-[17Jan2025 16:06:50.069] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 13 curio slots
-[17Jan2025 16:06:50.073] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
-[17Jan2025 16:06:50.154] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: minecraft:is_plains
-[17Jan2025 16:06:52.843] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[17Jan2025 16:06:52.844] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[17Jan2025 16:06:52.844] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[17Jan2025 16:06:52.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[17Jan2025 16:06:52.973] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[17Jan2025 16:06:53.006] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[17Jan2025 16:06:53.099] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17Jan2025 16:06:53.099] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[17Jan2025 16:06:53.099] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[17Jan2025 16:06:53.099] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[17Jan2025 16:06:53.163] [Server thread/INFO] [YAWP-Config/]: Setting YAWP base command to '/wp'
-[17Jan2025 16:06:53.165] [Server thread/INFO] [YAWP-Config/]: 1 UUID(s) with permission read from config: ed6c5568-96fa-38fd-ad29-941150deb41a
-[17Jan2025 16:06:53.201] [Thread-1/INFO] [YAWP-Config/]: Reloaded: 'yawp-common.toml'
-[17Jan2025 16:06:53.202] [Server thread/INFO] [YAWP-Config/]: 5 Block Entity entries read from config: minecraft:armor_stand, minecraft:item_frame, minecraft:glow_item_frame, minecraft:painting, minecraft:leash_knot
-[17Jan2025 16:06:53.203] [Server thread/INFO] [YAWP-Config/]: 0 Block Entity tag entries read from config
-[17Jan2025 16:06:53.204] [Thread-1/INFO] [YAWP-Config/]: Reloaded: 'yawp-common.toml'
-[17Jan2025 16:06:53.204] [Server thread/INFO] [YAWP-Config/]: 0 default flag(s) for Local Regions read from config
-[17Jan2025 16:06:53.205] [Server thread/INFO] [YAWP-Config/]: 0 default flag(s) for Dimensional Regions read from config
-[17Jan2025 16:06:53.210] [Server thread/INFO] [YAWP-Config/]: Logging flag checks: false
-[17Jan2025 16:06:53.210] [Server thread/INFO] [YAWP-Config/]: Logging flag check results: true
-[17Jan2025 16:06:53.211] [Server thread/INFO] [YAWP-Config/]: Logging flag categories: [player]
-[17Jan2025 16:06:53.211] [Server thread/INFO] [YAWP-Config/]: Logging flags: [place-blocks,break-blocks]
-[17Jan2025 16:06:53.211] [Server thread/INFO] [YAWP-Config/]: Logging empty flag results: false
-[17Jan2025 16:06:53.213] [Thread-1/INFO] [YAWP-Config/]: Reloaded: 'yawp-logging.toml'
-[17Jan2025 16:06:53.213] [Thread-1/INFO] [YAWP-Config/]: Reloaded: 'yawp-logging.toml'
-[17Jan2025 16:06:53.444] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
-[17Jan2025 16:06:53.934] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
-[17Jan2025 16:06:53.935] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[17Jan2025 16:06:54.554] [Server thread/INFO] [incontrol/]: Reading rules from areas.json
-[17Jan2025 16:06:54.565] [Server thread/INFO] [incontrol/]: Reading rules from spawn.json
-[17Jan2025 16:06:54.572] [Server thread/INFO] [incontrol/]: Reading rules from summonaid.json
-[17Jan2025 16:06:54.576] [Server thread/INFO] [incontrol/]: Reading rules from loot.json
-[17Jan2025 16:06:54.580] [Server thread/INFO] [incontrol/]: Reading rules from experience.json
-[17Jan2025 16:06:54.584] [Server thread/INFO] [incontrol/]: Reading rules from phases.json
-[17Jan2025 16:06:54.586] [Server thread/INFO] [incontrol/]: Reading rules from effects.json
-[17Jan2025 16:06:54.609] [Server thread/INFO] [incontrol/]: Reading rules from breakevents.json
-[17Jan2025 16:06:54.615] [Server thread/INFO] [incontrol/]: Reading rules from placeevents.json
-[17Jan2025 16:06:54.622] [Server thread/INFO] [incontrol/]: Reading rules from rightclicks.json
-[17Jan2025 16:06:54.633] [Server thread/INFO] [incontrol/]: Reading rules from leftclicks.json
-[17Jan2025 16:06:54.647] [Server thread/INFO] [incontrol/]: Reading rules from spawner.json
-[17Jan2025 16:06:54.656] [Server thread/INFO] [incontrol/]: Reading rules from events.json
-[17Jan2025 16:06:55.291] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[17Jan2025 16:06:55.292] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[17Jan2025 16:06:55.292] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[17Jan2025 16:06:55.293] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[17Jan2025 16:06:55.293] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[17Jan2025 16:06:55.293] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[17Jan2025 16:06:55.294] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[17Jan2025 16:06:55.294] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
-[17Jan2025 16:06:55.295] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[17Jan2025 16:06:55.295] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[17Jan2025 16:06:55.296] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[17Jan2025 16:06:55.296] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[17Jan2025 16:06:55.297] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[17Jan2025 16:06:55.298] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[17Jan2025 16:06:55.299] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[17Jan2025 16:06:55.299] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[17Jan2025 16:06:55.299] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[17Jan2025 16:06:55.300] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[17Jan2025 16:06:55.300] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[17Jan2025 16:06:55.300] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
-[17Jan2025 16:06:55.301] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[17Jan2025 16:06:55.301] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[17Jan2025 16:06:55.301] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
-[17Jan2025 16:06:55.301] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[17Jan2025 16:06:55.302] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
-[17Jan2025 16:06:55.302] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
-[17Jan2025 16:06:55.305] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[17Jan2025 16:06:55.305] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[17Jan2025 16:06:55.305] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[17Jan2025 16:06:55.305] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[17Jan2025 16:06:55.306] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[17Jan2025 16:06:55.306] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[17Jan2025 16:06:55.306] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[17Jan2025 16:06:55.306] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[17Jan2025 16:06:55.307] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[17Jan2025 16:06:55.307] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[17Jan2025 16:06:55.307] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[17Jan2025 16:06:57.353] [Server thread/INFO] [net.regions_unexplored.RegionsUnexploredMod/]: Loading dimension "minecraft:the_nether" with biome source: "minecraft:multi_noise".
-[17Jan2025 16:06:57.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[17Jan2025 16:07:01.894] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[17Jan2025 16:07:01.910] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[17Jan2025 16:07:01.937] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[17Jan2025 16:07:01.955] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[17Jan2025 16:07:01.965] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[17Jan2025 16:07:01.987] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[17Jan2025 16:07:02.001] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[17Jan2025 16:07:02.021] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[17Jan2025 16:07:02.032] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[17Jan2025 16:07:02.048] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[17Jan2025 16:07:02.362] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[17Jan2025 16:07:02.861] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[17Jan2025 16:07:03.355] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
-[17Jan2025 16:07:03.855] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 66%
-[17Jan2025 16:07:04.289] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 6935 ms
-[17Jan2025 16:07:04.290] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (11.177s)! For help, type "help"
-[17Jan2025 16:07:04.359] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[17Jan2025 16:07:04.366] [Server thread/INFO] [co.basin.betterbosses.MultiplayerBosses/]: Multiplayer Bosses Initiated
-[17Jan2025 16:07:04.367] [Server thread/INFO] [YAWP/]: Loaded global region data
-[17Jan2025 16:07:04.367] [Server thread/INFO] [YAWP/]: Loading region(s) for 1 dimension(s)
-[17Jan2025 16:07:04.371] [Server thread/INFO] [YAWP/]: Loading 0 region(s) for dimension 'minecraft:overworld'
-[17Jan2025 16:07:04.372] [Server thread/INFO] [YAWP/]: Loaded 0 region(s) for dimension 'minecraft:overworld'
-[17Jan2025 16:07:04.373] [Server thread/INFO] [YAWP/]: Loaded 0 region(s) for 1 dimension(s)
-[17Jan2025 16:07:07.020] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[17Jan2025 16:07:07.030] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice host is 'locations-clock.gl.at.ply.gg:4261'
-[17Jan2025 16:07:07.030] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
-[17Jan2025 16:07:07.031] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 4261
-[17Jan2025 16:07:26.236] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
-[17Jan2025 16:07:26.350] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alexterminium[/127.160.234.31:41639] logged in with entity id 798 at (90.59688693725023, 111.0, 0.6594394305310624)
-[17Jan2025 16:07:26.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 🪓 ▷[Alexterminium]◁ ⛏ joined the game
-[17Jan2025 16:07:26.674] [Server thread/INFO] [Jade/]: Syncing config to Alexterminium (ed6c5568-96fa-38fd-ad29-941150deb41a)
-[17Jan2025 16:07:30.909] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Alexterminium (18)
-[17Jan2025 16:07:30.911] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Alexterminium
-[17Jan2025 16:07:35.480] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ed6c5568-96fa-38fd-ad29-941150deb41a
-[17Jan2025 16:07:36.477] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ed6c5568-96fa-38fd-ad29-941150deb41a
-[17Jan2025 16:07:36.480] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Alexterminium (ed6c5568-96fa-38fd-ad29-941150deb41a) successfully connected to voice chat
-[17Jan2025 16:08:10.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [🪓 ▷[Alexterminium]◁ ⛏: Set own game mode to Survival Mode]
-[17Jan2025 16:08:13.327] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 2103_[/127.189.193.155:53229] logged in with entity id 912 at (92.04484020927688, 111.0, 1.2089875303983117)
-[17Jan2025 16:08:13.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 🪓 ▷[2103_]◁ ⛏ joined the game
-[17Jan2025 16:08:13.496] [Server thread/INFO] [Jade/]: Syncing config to 2103_ (74fd72c8-5658-3f69-baa5-9c7192198c39)
-[17Jan2025 16:08:15.321] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of 2103_ (18)
-[17Jan2025 16:08:15.321] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to 2103_
-[17Jan2025 16:08:27.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <🪓 ▷[2103_]◁ ⛏> alex antes de irme
-[17Jan2025 16:08:34.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <🪓 ▷[2103_]◁ ⛏> me haces tp a mi casa
-[17Jan2025 16:08:40.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <🪓 ▷[2103_]◁ ⛏> y de paso me das 2 slimes
-[17Jan2025 16:08:44.205] [Server thread/WARN] [tombstone/]: The death event of the player Alexterminium was canceled by another mod
-[17Jan2025 16:08:44.219] [Server thread/INFO] [tombstone/]: The player Alexterminium has successfully been saved
-[17Jan2025 16:09:21.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <🪓 ▷[2103_]◁ ⛏> yo jugaba pvp hacique cuidao
-[17Jan2025 16:09:31.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <🪓 ▷[2103_]◁ ⛏> pvp 1.20
-[17Jan2025 16:09:31.291] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alexterminium lost connection: Disconnected
-[17Jan2025 16:09:31.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 🪓 ▷[Alexterminium]◁ ⛏ left the game
-[17Jan2025 16:09:31.295] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Alexterminium
-[17Jan2025 16:09:34.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <🪓 ▷[2103_]◁ ⛏> deaaa
-[17Jan2025 16:09:51.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
-[17Jan2025 16:09:51.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STOP<--[HERE]
-[17Jan2025 16:09:52.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
-[17Jan2025 16:09:53.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[17Jan2025 16:09:53.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[17Jan2025 16:09:53.015] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2103_ lost connection: Disconnected
-[17Jan2025 16:09:53.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 🪓 ▷[2103_]◁ ⛏ left the game
-[17Jan2025 16:09:53.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[17Jan2025 16:09:53.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[17Jan2025 16:09:54.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[17Jan2025 16:09:54.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[17Jan2025 16:09:54.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[17Jan2025 16:09:54.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[17Jan2025 16:09:54.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[17Jan2025 16:09:54.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[17Jan2025 19:08:27.328] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [radium] Starting version check at https://api.modrinth.com/updates/radium/forge_updates.json
+[17Jan2025 19:08:27.329] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[17Jan2025 19:08:27.329] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[17Jan2025 19:08:27.330] [main/INFO] [terrablender/]: Registered region regions_unexplored:primary to index 1 for type OVERWORLD
+[17Jan2025 19:08:27.330] [main/INFO] [terrablender/]: Registered region regions_unexplored:secondary to index 2 for type OVERWORLD
+[17Jan2025 19:08:27.330] [main/INFO] [terrablender/]: Registered region regions_unexplored:nether to index 1 for type NETHER
+[17Jan2025 19:08:27.432] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[17Jan2025 19:08:27.432] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
+[17Jan2025 19:08:27.434] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[17Jan2025 19:08:27.434] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
+[17Jan2025 19:08:27.486] [modloading-worker-0/INFO] [AttributeFix/]: Loaded values for 31 compatible attributes.
+[17Jan2025 19:08:27.489] [modloading-worker-0/INFO] [AttributeFix/]: Loaded 31 values from config.
+[17Jan2025 19:08:27.498] [modloading-worker-0/INFO] [AttributeFix/]: Saving config file. 31 entries.
+[17Jan2025 19:08:27.499] [modloading-worker-0/INFO] [AttributeFix/]: Applying changes for 31 attributes.
+[17Jan2025 19:08:27.539] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ht.treechop.compat.Jade
+[17Jan2025 19:08:27.547] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.JadeIntegration
+[17Jan2025 19:08:27.548] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[17Jan2025 19:08:27.560] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[17Jan2025 19:08:27.565] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[17Jan2025 19:08:27.566] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.geforcemods.securitycraft.compat.hudmods.JadeDataProvider
+[17Jan2025 19:08:27.568] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationJade
+[17Jan2025 19:08:27.569] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.JadeAddonsBase
+[17Jan2025 19:08:27.694] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [radium] Found status: AHEAD Current: 0.12.4+git.26c9d8e Target: null
+[17Jan2025 19:08:27.694] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [attributefix] Starting version check at https://updates.blamejared.com/get?n=attributefix&gv=1.20.1
+[17Jan2025 19:08:27.819] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [attributefix] Found status: BETA Current: 21.0.4 Target: 21.0.4
+[17Jan2025 19:08:27.819] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[17Jan2025 19:08:27.988] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.22
+[17Jan2025 19:08:27.989] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Starting version check at http://changelogs.moddinglegacy.com/structure-gel.json
+[17Jan2025 19:08:28.427] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Found status: BETA Current: 2.16.2 Target: null
+[17Jan2025 19:08:28.427] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
+[17Jan2025 19:08:28.566] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: AHEAD Current: 1.20.1-2.5.27 Target: null
+[17Jan2025 19:08:28.568] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dungeons_plus] Starting version check at http://changelogs.moddinglegacy.com/dungeons-plus.json
+[17Jan2025 19:08:28.795] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dungeons_plus] Found status: BETA Current: 1.5.0 Target: null
+[17Jan2025 19:08:28.796] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [smoothboot] Starting version check at https://github.com/AbdElAziz333/SmoothBoot-Reloaded/raw/mc1.20.1/dev/updates.json
+[17Jan2025 19:08:28.953] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [smoothboot] Found status: UP_TO_DATE Current: 0.0.4 Target: null
+[17Jan2025 19:08:28.955] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
+[17Jan2025 19:08:29.084] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Found status: BETA Current: 0.6.11-13 Target: null
+[17Jan2025 19:08:29.086] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[17Jan2025 19:08:29.123] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.9.12 Target: null
+[17Jan2025 19:08:29.124] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Starting version check at https://raw.githubusercontent.com/DmitryLovin/pluginUpdate/master/invupdate.json
+[17Jan2025 19:08:29.131] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Found status: UP_TO_DATE Current: 3.4.26 Target: null
+[17Jan2025 19:08:29.131] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[17Jan2025 19:08:29.140] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 8.9.0 Target: null
+[17Jan2025 19:08:29.141] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [embeddium_extra] Starting version check at https://api.modrinth.com/updates/rubidium-extra/forge_updates.json
+[17Jan2025 19:08:29.305] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [embeddium_extra] Found status: UP_TO_DATE Current: 0.5.4.3+mc1.20.1-build.121 Target: null
+[17Jan2025 19:08:29.305] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfurnitures] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/furniture.json
+[17Jan2025 19:08:29.317] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfurnitures] Found status: UP_TO_DATE Current: 3.3.0 Target: null
+[17Jan2025 19:08:32.678] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[17Jan2025 19:08:36.736] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Pepsiman/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23237!/assets/.mcassetsroot' uses unexpected schema
+[17Jan2025 19:08:36.736] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Pepsiman/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23237!/data/.mcassetsroot' uses unexpected schema
+[17Jan2025 19:08:39.462] [main/INFO] [com.sk89q.worldedit.extension.platform.PlatformCommandManager/]: Registering commands with com.sk89q.worldedit.forge.ForgePlatform
+[17Jan2025 19:08:39.543] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[17Jan2025 19:08:40.414] [Worker-Main-2/INFO] [epicfight/]: Register animations from epicfight
+[17Jan2025 19:08:41.267] [Worker-Main-2/INFO] [epicfight/]: Register animations from wom
+[17Jan2025 19:08:43.441] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 26 recipes
+[17Jan2025 19:08:43.647] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 4222 advancements
+[17Jan2025 19:08:43.812] [main/WARN] [epicfight/]: Error while deserializing datapack for magistuarmory:silver_morgenstern
+[17Jan2025 19:08:43.843] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 13 curio slots
+[17Jan2025 19:08:43.848] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
+[17Jan2025 19:08:44.035] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: minecraft:is_plains
+[17Jan2025 19:08:47.254] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[17Jan2025 19:08:47.255] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[17Jan2025 19:08:47.255] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[17Jan2025 19:08:47.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[17Jan2025 19:08:47.516] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[17Jan2025 19:08:47.545] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[17Jan2025 19:08:47.639] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17Jan2025 19:08:47.639] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[17Jan2025 19:08:47.639] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17Jan2025 19:08:47.639] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[17Jan2025 19:08:47.680] [Server thread/INFO] [YAWP-Config/]: Setting YAWP base command to '/wp'
+[17Jan2025 19:08:47.681] [Server thread/INFO] [YAWP-Config/]: 1 UUID(s) with permission read from config: ed6c5568-96fa-38fd-ad29-941150deb41a
+[17Jan2025 19:08:47.720] [Server thread/INFO] [YAWP-Config/]: 5 Block Entity entries read from config: minecraft:armor_stand, minecraft:item_frame, minecraft:glow_item_frame, minecraft:painting, minecraft:leash_knot
+[17Jan2025 19:08:47.720] [Server thread/INFO] [YAWP-Config/]: 0 Block Entity tag entries read from config
+[17Jan2025 19:08:47.723] [Server thread/INFO] [YAWP-Config/]: 0 default flag(s) for Local Regions read from config
+[17Jan2025 19:08:47.723] [Server thread/INFO] [YAWP-Config/]: 0 default flag(s) for Dimensional Regions read from config
+[17Jan2025 19:08:47.724] [Thread-1/INFO] [YAWP-Config/]: Reloaded: 'yawp-region-defaults.toml'
+[17Jan2025 19:08:47.726] [Thread-1/INFO] [YAWP-Config/]: Reloaded: 'yawp-region-defaults.toml'
+[17Jan2025 19:08:47.731] [Server thread/INFO] [YAWP-Config/]: Logging flag checks: false
+[17Jan2025 19:08:47.731] [Server thread/INFO] [YAWP-Config/]: Logging flag check results: true
+[17Jan2025 19:08:47.732] [Server thread/INFO] [YAWP-Config/]: Logging flag categories: [player]
+[17Jan2025 19:08:47.732] [Server thread/INFO] [YAWP-Config/]: Logging flags: [place-blocks,break-blocks]
+[17Jan2025 19:08:47.732] [Server thread/INFO] [YAWP-Config/]: Logging empty flag results: false
+[17Jan2025 19:08:47.741] [Thread-1/INFO] [YAWP-Config/]: Reloaded: 'yawp-logging.toml'
+[17Jan2025 19:08:47.743] [Thread-1/INFO] [YAWP-Config/]: Reloaded: 'yawp-logging.toml'
+[17Jan2025 19:08:48.085] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[17Jan2025 19:08:48.512] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[17Jan2025 19:08:48.514] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[17Jan2025 19:08:49.180] [Server thread/INFO] [incontrol/]: Reading rules from areas.json
+[17Jan2025 19:08:49.198] [Server thread/INFO] [incontrol/]: Reading rules from spawn.json
+[17Jan2025 19:08:49.208] [Server thread/INFO] [incontrol/]: Reading rules from summonaid.json
+[17Jan2025 19:08:49.210] [Server thread/INFO] [incontrol/]: Reading rules from loot.json
+[17Jan2025 19:08:49.220] [Server thread/INFO] [incontrol/]: Reading rules from experience.json
+[17Jan2025 19:08:49.221] [Server thread/INFO] [incontrol/]: Reading rules from phases.json
+[17Jan2025 19:08:49.223] [Server thread/INFO] [incontrol/]: Reading rules from effects.json
+[17Jan2025 19:08:49.224] [Server thread/INFO] [incontrol/]: Reading rules from breakevents.json
+[17Jan2025 19:08:49.225] [Server thread/INFO] [incontrol/]: Reading rules from placeevents.json
+[17Jan2025 19:08:49.228] [Server thread/INFO] [incontrol/]: Reading rules from rightclicks.json
+[17Jan2025 19:08:49.237] [Server thread/INFO] [incontrol/]: Reading rules from leftclicks.json
+[17Jan2025 19:08:49.239] [Server thread/INFO] [incontrol/]: Reading rules from spawner.json
+[17Jan2025 19:08:49.241] [Server thread/INFO] [incontrol/]: Reading rules from events.json
+[17Jan2025 19:08:50.036] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[17Jan2025 19:08:50.037] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[17Jan2025 19:08:50.037] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[17Jan2025 19:08:50.038] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[17Jan2025 19:08:50.038] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[17Jan2025 19:08:50.038] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[17Jan2025 19:08:50.039] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[17Jan2025 19:08:50.039] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[17Jan2025 19:08:50.040] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[17Jan2025 19:08:50.042] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[17Jan2025 19:08:50.042] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[17Jan2025 19:08:50.043] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[17Jan2025 19:08:50.044] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[17Jan2025 19:08:50.046] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[17Jan2025 19:08:50.047] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[17Jan2025 19:08:50.048] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[17Jan2025 19:08:50.048] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[17Jan2025 19:08:50.049] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[17Jan2025 19:08:50.049] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[17Jan2025 19:08:50.049] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[17Jan2025 19:08:50.050] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[17Jan2025 19:08:50.050] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[17Jan2025 19:08:50.051] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[17Jan2025 19:08:50.051] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[17Jan2025 19:08:50.063] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[17Jan2025 19:08:50.064] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[17Jan2025 19:08:50.064] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[17Jan2025 19:08:50.065] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[17Jan2025 19:08:50.065] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[17Jan2025 19:08:50.065] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[17Jan2025 19:08:50.066] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[17Jan2025 19:08:50.066] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[17Jan2025 19:08:50.067] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[17Jan2025 19:08:50.068] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[17Jan2025 19:08:50.068] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[17Jan2025 19:08:50.069] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[17Jan2025 19:08:50.069] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[17Jan2025 19:08:52.979] [Server thread/INFO] [net.regions_unexplored.RegionsUnexploredMod/]: Loading dimension "minecraft:the_nether" with biome source: "minecraft:multi_noise".
+[17Jan2025 19:08:52.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[17Jan2025 19:08:54.684] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17Jan2025 19:08:54.709] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17Jan2025 19:08:54.720] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17Jan2025 19:08:54.720] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17Jan2025 19:08:57.055] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17Jan2025 19:08:57.101] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17Jan2025 19:08:57.111] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17Jan2025 19:08:57.116] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17Jan2025 19:08:57.122] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17Jan2025 19:08:57.485] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17Jan2025 19:08:59.758] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17Jan2025 19:08:59.759] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17Jan2025 19:08:59.760] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17Jan2025 19:08:59.761] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17Jan2025 19:08:59.981] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17Jan2025 19:09:00.482] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 11%
+[17Jan2025 19:09:00.983] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 96%
+[17Jan2025 19:09:01.047] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 8066 ms
+[17Jan2025 19:09:01.048] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (13.393s)! For help, type "help"
+[17Jan2025 19:09:01.173] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[17Jan2025 19:09:01.179] [Server thread/INFO] [co.basin.betterbosses.MultiplayerBosses/]: Multiplayer Bosses Initiated
+[17Jan2025 19:09:01.180] [Server thread/INFO] [YAWP/]: Loaded global region data
+[17Jan2025 19:09:01.180] [Server thread/INFO] [YAWP/]: Loading region(s) for 1 dimension(s)
+[17Jan2025 19:09:01.183] [Server thread/INFO] [YAWP/]: Loading 0 region(s) for dimension 'minecraft:overworld'
+[17Jan2025 19:09:01.184] [Server thread/INFO] [YAWP/]: Loaded 0 region(s) for dimension 'minecraft:overworld'
+[17Jan2025 19:09:01.185] [Server thread/INFO] [YAWP/]: Loaded 0 region(s) for 1 dimension(s)
+[17Jan2025 19:09:04.457] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
+[17Jan2025 19:09:04.470] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[17Jan2025 19:09:04.481] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice host is 'locations-clock.gl.at.ply.gg:4261'
+[17Jan2025 19:09:04.482] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 4261
+[17Jan2025 19:09:13.046] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[17Jan2025 19:09:13.175] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alexterminium[/127.160.234.31:54447] logged in with entity id 791 at (93.18660558791441, 111.0, 4.193441626062013)
+[17Jan2025 19:09:13.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 🪓 ▷[Alexterminium]◁ ⛏ joined the game
+[17Jan2025 19:09:13.555] [Server thread/INFO] [Jade/]: Syncing config to Alexterminium (ed6c5568-96fa-38fd-ad29-941150deb41a)
+[17Jan2025 19:09:16.909] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Alexterminium (18)
+[17Jan2025 19:09:16.911] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Alexterminium
+[17Jan2025 19:09:21.900] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ed6c5568-96fa-38fd-ad29-941150deb41a
+[17Jan2025 19:09:22.901] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ed6c5568-96fa-38fd-ad29-941150deb41a
+[17Jan2025 19:09:22.905] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Alexterminium (ed6c5568-96fa-38fd-ad29-941150deb41a) successfully connected to voice chat
+[17Jan2025 19:09:49.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [🪓 ▷[Alexterminium]◁ ⛏: Summoned new Pig]
+[17Jan2025 19:10:42.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <🪓 ▷[Alexterminium]◁ ⛏> bueno cada quien
+[17Jan2025 19:17:27.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[17Jan2025 19:17:27.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[17Jan2025 19:17:27.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[17Jan2025 19:17:27.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[17Jan2025 19:17:27.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17Jan2025 19:17:28.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[17Jan2025 19:17:28.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[17Jan2025 19:17:28.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17Jan2025 19:17:28.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17Jan2025 19:17:28.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17Jan2025 19:17:28.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
