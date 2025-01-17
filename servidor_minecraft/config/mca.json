@@ -136,7 +136,7 @@
   "forceVillagerPlayerModel": false,
   "allowLimitedPlayerEditor": false,
   "allowFullPlayerEditor": false,
-  "allowPlayerSizeAdjustment": true,
+  "allowPlayerSizeAdjustment": false,
   "adjustPlayerEyesToHeight": false,
   "useModernUSANamesOnly": false,
   "guardsTargetEntities": {
@@ -210,7 +210,8 @@
   "playerRendererBlacklist": {
     "firstperson": "arms",
     "firstpersonmod": "arms",
-    "morph": "arms"
+    "morph": "arms",
+    "epicbattle": "head"
   },
   "enabledTraits": {
     "SIRBEN": true,

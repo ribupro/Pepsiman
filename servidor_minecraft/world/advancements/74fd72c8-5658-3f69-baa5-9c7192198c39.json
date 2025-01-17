@@ -1509,24 +1509,6 @@
     },
     "done": true
   },
-  "creategoggles:recipes/nbtcrafting/goggle_iron_helmet": {
-    "criteria": {
-      "has_helmet": "2025-01-16 03:55:54 +0000"
-    },
-    "done": true
-  },
-  "creategoggles:recipes/nbtcrafting/goggle_leather_helmet": {
-    "criteria": {
-      "has_helmet": "2025-01-16 03:56:11 +0000"
-    },
-    "done": true
-  },
-  "creategoggles:recipes/nbtcrafting/leather_backtank": {
-    "criteria": {
-      "has_backtank": "2025-01-16 03:56:18 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/decorations/display_case": {
     "criteria": {
       "has_item_frame": "2025-01-16 03:56:24 +0000"
@@ -1557,6 +1539,7 @@
       "minecraft:skeleton": "2025-01-16 04:01:06 +0000",
       "minecraft:spider": "2025-01-16 04:05:37 +0000",
       "minecraft:creeper": "2025-01-16 17:43:34 +0000",
+      "minecraft:phantom": "2025-01-17 05:56:44 +0000",
       "minecraft:silverfish": "2025-01-16 15:28:52 +0000",
       "minecraft:vex": "2025-01-17 02:05:28 +0000",
       "minecraft:zombie": "2025-01-16 03:59:06 +0000"
@@ -1866,12 +1849,6 @@
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-01-16 04:08:22 +0000"
-    },
-    "done": true
-  },
-  "creategoggles:recipes/nbtcrafting/iron_backtank": {
-    "criteria": {
-      "has_backtank": "2025-01-16 04:11:23 +0000"
     },
     "done": true
   },
@@ -4933,6 +4910,12 @@
   "minecraft:recipes/redstone/trapped_chest": {
     "criteria": {
       "has_tripwire_hook": "2025-01-17 02:39:47 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-01-17 05:56:44 +0000"
     },
     "done": true
   },
