@@ -432,3 +432,65 @@ com.google.gson.JsonSyntaxException: Unknown item 'mekanism:alloy_reinforced'
 [17Jan2025 05:11:23.522] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2103_ lost connection: Timed out
 [17Jan2025 05:11:23.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 🪓 ▷[2103_]◁ ⛏ left the game
 [17Jan2025 05:11:23.526] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client 2103_
+[17Jan2025 05:13:45.288] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 2103_[/127.181.195.113:58517] logged in with entity id 3108 at (-1177.4959818852292, 65.0, -517.185254559163)
+[17Jan2025 05:13:45.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 🪓 ▷[2103_]◁ ⛏ joined the game
+[17Jan2025 05:13:45.351] [Server thread/INFO] [Jade/]: Syncing config to 2103_ (74fd72c8-5658-3f69-baa5-9c7192198c39)
+[17Jan2025 05:13:48.353] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of 2103_ (18)
+[17Jan2025 05:13:48.353] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to 2103_
+[17Jan2025 05:13:52.474] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 74fd72c8-5658-3f69-baa5-9c7192198c39
+[17Jan2025 05:13:53.476] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 74fd72c8-5658-3f69-baa5-9c7192198c39
+[17Jan2025 05:13:53.477] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 2103_ (74fd72c8-5658-3f69-baa5-9c7192198c39) successfully connected to voice chat
+[17Jan2025 05:14:16.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <🪓 ▷[2103_]◁ ⛏> ey
+[17Jan2025 05:14:22.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <🪓 ▷[2103_]◁ ⛏> se me bugio la cancion
+[17Jan2025 05:14:27.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <🪓 ▷[2103_]◁ ⛏> como la quito?
+[17Jan2025 05:14:34.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <🪓 ▷[2103_]◁ ⛏> no te escucho
+[17Jan2025 05:14:38.883] [Server thread/WARN] [tombstone/]: The death event of the player 2103_ was canceled by another mod
+[17Jan2025 05:14:38.907] [Server thread/INFO] [tombstone/]: The player 2103_ has successfully been saved
+[17Jan2025 05:14:47.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <🪓 ▷[2103_]◁ ⛏> mrd
+[17Jan2025 05:14:57.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <🪓 ▷[2103_]◁ ⛏> help
+[17Jan2025 05:15:10.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <🪓 ▷[2103_]◁ ⛏> espera me salgo y me uno aver
+[17Jan2025 05:15:11.671] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2103_ lost connection: Disconnected
+[17Jan2025 05:15:11.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 🪓 ▷[2103_]◁ ⛏ left the game
+[17Jan2025 05:15:11.672] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client 2103_
+[17Jan2025 05:15:20.893] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 2103_[/127.181.195.113:49461] logged in with entity id 3501 at (-1182.4571626999968, 63.0, -502.65913872196444)
+[17Jan2025 05:15:20.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 🪓 ▷[2103_]◁ ⛏ joined the game
+[17Jan2025 05:15:20.943] [Server thread/INFO] [Jade/]: Syncing config to 2103_ (74fd72c8-5658-3f69-baa5-9c7192198c39)
+[17Jan2025 05:15:22.336] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of 2103_ (18)
+[17Jan2025 05:15:22.337] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to 2103_
+[17Jan2025 05:15:27.025] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 74fd72c8-5658-3f69-baa5-9c7192198c39
+[17Jan2025 05:15:28.022] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 74fd72c8-5658-3f69-baa5-9c7192198c39
+[17Jan2025 05:15:28.022] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 2103_ (74fd72c8-5658-3f69-baa5-9c7192198c39) successfully connected to voice chat
+[17Jan2025 05:15:36.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <🪓 ▷[2103_]◁ ⛏> creo que ya
+[17Jan2025 05:15:44.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <🪓 ▷[2103_]◁ ⛏> ci
+[17Jan2025 05:15:46.322] [Server thread/WARN] [tombstone/]: The death event of the player 2103_ was canceled by another mod
+[17Jan2025 05:15:46.328] [Server thread/INFO] [tombstone/]: The player 2103_ has successfully been saved
+[17Jan2025 05:15:53.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <🪓 ▷[2103_]◁ ⛏> XD
+[17Jan2025 05:16:14.619] [Server thread/WARN] [tombstone/]: The death event of the player 2103_ was canceled by another mod
+[17Jan2025 05:16:14.627] [Server thread/INFO] [tombstone/]: The player 2103_ has successfully been saved
+[17Jan2025 05:16:17.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <🪓 ▷[2103_]◁ ⛏> XDDDDDDDDDDDDDDDDD
+[17Jan2025 05:16:19.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <🪓 ▷[2103_]◁ ⛏> ajaajjaaj
+[17Jan2025 05:16:30.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [🪓 ▷[Alexterminium]◁ ⛏: Killed Nightmare Stalker]
+[17Jan2025 05:16:44.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <🪓 ▷[2103_]◁ ⛏> alex?
+[17Jan2025 05:17:34.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <🪓 ▷[2103_]◁ ⛏> mira
+[17Jan2025 05:17:50.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <🪓 ▷[2103_]◁ ⛏> habl
+[17Jan2025 05:17:57.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <🪓 ▷[2103_]◁ ⛏> no
+[17Jan2025 05:18:05.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <🪓 ▷[2103_]◁ ⛏> ci
+[17Jan2025 05:18:12.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <🪓 ▷[2103_]◁ ⛏> los lentes
+[17Jan2025 05:18:19.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <🪓 ▷[2103_]◁ ⛏> mira
+[17Jan2025 05:18:49.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <🪓 ▷[2103_]◁ ⛏> mueve la cabeza
+[17Jan2025 05:20:57.123] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alexterminium lost connection: Disconnected
+[17Jan2025 05:20:57.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 🪓 ▷[Alexterminium]◁ ⛏ left the game
+[17Jan2025 05:20:57.124] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Alexterminium
+[17Jan2025 05:21:02.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[17Jan2025 05:21:02.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[17Jan2025 05:21:02.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[17Jan2025 05:21:02.606] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2103_ lost connection: Server closed
+[17Jan2025 05:21:02.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 🪓 ▷[2103_]◁ ⛏ left the game
+[17Jan2025 05:21:02.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[17Jan2025 05:21:03.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17Jan2025 05:21:06.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[17Jan2025 05:21:06.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[17Jan2025 05:21:06.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17Jan2025 05:21:06.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17Jan2025 05:21:06.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17Jan2025 05:21:06.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
