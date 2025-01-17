@@ -1151,18 +1151,6 @@
     },
     "done": true
   },
-  "creategoggles:recipes/nbtcrafting/goggle_leather_helmet": {
-    "criteria": {
-      "has_helmet": "2025-01-16 15:11:17 +0000"
-    },
-    "done": true
-  },
-  "creategoggles:recipes/nbtcrafting/leather_backtank": {
-    "criteria": {
-      "has_backtank": "2025-01-16 15:11:17 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_chainmail_boots": "2025-01-16 15:11:26 +0000"
@@ -2139,12 +2127,6 @@
     },
     "done": true
   },
-  "creategoggles:recipes/nbtcrafting/iron_backtank": {
-    "criteria": {
-      "has_backtank": "2025-01-16 20:09:54 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_chestplate": "2025-01-16 20:09:54 +0000"
@@ -2865,12 +2847,6 @@
     },
     "done": true
   },
-  "creategoggles:recipes/nbtcrafting/goggle_iron_helmet": {
-    "criteria": {
-      "has_helmet": "2025-01-16 21:07:29 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/rose_quartz_lamp": {
     "criteria": {
       "has_item": "2025-01-16 21:09:45 +0000"
@@ -3573,36 +3549,6 @@
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
-    "criteria": {
-      "has_wheat": "2025-01-17 02:30:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/lectern": {
-    "criteria": {
-      "has_book": "2025-01-17 02:50:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/writable_book": {
-    "criteria": {
-      "has_book": "2025-01-17 02:50:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/bread": {
-    "criteria": {
-      "has_wheat": "2025-01-17 02:30:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/hay_block": {
-    "criteria": {
-      "has_wheat": "2025-01-17 02:30:53 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_sandstone": "2025-01-17 02:26:08 +0000"
@@ -3633,21 +3579,9 @@
     },
     "done": true
   },
-  "dungeons_plus:adventure/find_tower": {
-    "criteria": {
-      "in_structure": "2025-01-17 02:47:15 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/sandstone_slab": {
     "criteria": {
       "has_sandstone": "2025-01-17 02:26:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bookshelf": {
-    "criteria": {
-      "has_book": "2025-01-17 02:50:32 +0000"
     },
     "done": true
   },
@@ -3657,15 +3591,81 @@
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/reinforced_chiseled_bookshelf": {
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
     "criteria": {
-      "has_book": "2025-01-17 02:50:32 +0000"
+      "has_sandstone": "2025-01-17 02:26:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2025-01-17 02:26:08 +0000"
     },
     "done": true
   },
   "sophisticatedbackpacks:recipes/misc/advanced_magnet_upgrade_from_basic": {
     "criteria": {
       "has_magnet_upgrade": "2025-01-17 02:26:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_glazed_terracotta": {
+    "criteria": {
+      "has_blue_terracotta": "2025-01-17 02:26:55 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
+    "criteria": {
+      "has_wheat": "2025-01-17 02:30:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-01-17 02:30:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-01-17 02:30:53 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-01-17 02:40:50 +0000"
+    },
+    "done": true
+  },
+  "dungeons_plus:adventure/find_tower": {
+    "criteria": {
+      "in_structure": "2025-01-17 02:47:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-01-17 02:50:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-01-17 02:50:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-17 02:50:32 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-17 02:50:32 +0000"
     },
     "done": true
   },
@@ -3681,27 +3681,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+  "blood_n_particles:blood_n_particles": {
     "criteria": {
-      "has_sandstone": "2025-01-17 02:26:08 +0000"
+      "requirement": "2025-01-17 21:25:25 +0000"
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/seagull_steal": {
+  "tombstone:adventure/bone_crusher": {
     "criteria": {
-      "ex": "2025-01-17 02:40:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/blue_glazed_terracotta": {
-    "criteria": {
-      "has_blue_terracotta": "2025-01-17 02:26:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/sandstone_wall": {
-    "criteria": {
-      "has_sandstone": "2025-01-17 02:26:08 +0000"
+      "coded_trigger": "2025-01-17 21:26:25 +0000"
     },
     "done": true
   },
