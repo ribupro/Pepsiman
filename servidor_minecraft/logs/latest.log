@@ -310,3 +310,40 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [17Jan2025 15:41:07.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <🪓 ▷[2103_]◁ ⛏> cubos
 [17Jan2025 15:41:24.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <🪓 ▷[2103_]◁ ⛏> acaso
 [17Jan2025 15:43:13.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <🪓 ▷[2103_]◁ ⛏> normal
+[17Jan2025 15:48:20.806] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2103_ lost connection: Disconnected
+[17Jan2025 15:48:20.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 🪓 ▷[2103_]◁ ⛏ left the game
+[17Jan2025 15:48:20.807] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client 2103_
+[17Jan2025 15:48:22.704] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alexterminium lost connection: Disconnected
+[17Jan2025 15:48:22.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 🪓 ▷[Alexterminium]◁ ⛏ left the game
+[17Jan2025 15:48:22.705] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Alexterminium
+[17Jan2025 15:48:37.722] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 2103_[/127.189.193.155:39731] logged in with entity id 3058 at (101.0435008755086, 111.0, -3.406941677706098)
+[17Jan2025 15:48:37.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 🪓 ▷[2103_]◁ ⛏ joined the game
+[17Jan2025 15:48:37.783] [Server thread/INFO] [Jade/]: Syncing config to 2103_ (74fd72c8-5658-3f69-baa5-9c7192198c39)
+[17Jan2025 15:48:40.139] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of 2103_ (18)
+[17Jan2025 15:48:40.139] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to 2103_
+[17Jan2025 15:48:57.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <🪓 ▷[2103_]◁ ⛏> esta normal
+[17Jan2025 15:48:57.316] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alexterminium[/127.160.234.31:53641] logged in with entity id 3109 at (99.29766900875148, 111.0, -3.716519828932214)
+[17Jan2025 15:48:57.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 🪓 ▷[Alexterminium]◁ ⛏ joined the game
+[17Jan2025 15:48:57.365] [Server thread/INFO] [Jade/]: Syncing config to Alexterminium (ed6c5568-96fa-38fd-ad29-941150deb41a)
+[17Jan2025 15:49:00.248] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Alexterminium (18)
+[17Jan2025 15:49:00.248] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Alexterminium
+[17Jan2025 15:49:03.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <🪓 ▷[2103_]◁ ⛏> si
+[17Jan2025 15:49:05.196] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ed6c5568-96fa-38fd-ad29-941150deb41a
+[17Jan2025 15:49:06.198] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ed6c5568-96fa-38fd-ad29-941150deb41a
+[17Jan2025 15:49:06.198] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Alexterminium (ed6c5568-96fa-38fd-ad29-941150deb41a) successfully connected to voice chat
+[17Jan2025 15:49:16.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <🪓 ▷[2103_]◁ ⛏> ci
+[17Jan2025 15:49:33.404] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alexterminium lost connection: Disconnected
+[17Jan2025 15:49:33.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 🪓 ▷[Alexterminium]◁ ⛏ left the game
+[17Jan2025 15:49:33.405] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Alexterminium
+[17Jan2025 15:49:38.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[17Jan2025 15:49:38.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[17Jan2025 15:49:38.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[17Jan2025 15:49:38.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[17Jan2025 15:49:38.295] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[17Jan2025 15:49:38.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17Jan2025 15:49:39.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[17Jan2025 15:49:39.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[17Jan2025 15:49:39.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17Jan2025 15:49:39.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17Jan2025 15:49:39.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17Jan2025 15:49:39.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
