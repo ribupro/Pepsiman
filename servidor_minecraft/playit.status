@@ -1,226 +1,874 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1737094333639 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1737143904237 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1737094336768 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737143907602 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1737094339903 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737143910731 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1737094343039 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737143913861 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1737094346179 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737143916991 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1737094349318 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737143920121 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1737094352452 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737143923251 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1737094355628 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737143926384 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1737094358757 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737143929532 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1737094361893 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737143932667 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1737094365034 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737143935814 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1737094368165 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737143938975 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1737094371300 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737143942124 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1737094374434 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737143945277 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1737094377577 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737143948422 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1737094380714 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737143951552 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1737094383850 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737143954693 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1737094386982 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737143958024 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1737094390113 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737143961151 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1737094393263 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737143964286 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1737094396402 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737143967927 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1737094399533 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737143971058 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1737094402667 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737143974645 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1737094405806 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737143977905 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1737094408940 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737143981045 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1737094412076 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737143984179 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1737094415214 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737143987364 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1737094418357 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737143990511 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1737094421509 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737143993927 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1737094424649 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737143997066 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1737094427789 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737144000188 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1737094430917 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737144003479 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1737094434053 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737144006612 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1737094437193 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737144009736 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1737094440321 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737144012868 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1737094443448 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737144016204 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1737094446694 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737144019384 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1737094449826 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737144022538 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737144025660 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737144028878 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737144032011 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737144035149 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737144038363 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737144041491 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737144044619 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737144047754 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737144050893 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737144054039 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737144057176 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737144060326 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737144063461 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737144066661 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737144069881 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737144073284 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737144076421 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737144079556 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737144082680 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737144085846 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737144088969 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737144092102 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737144095229 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737144098369 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737144101508 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737144104677 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737144107840 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737144111017 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737144114185 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737144117327 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737144120473 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737144123609 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737144126735 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737144130014 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737144133143 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737144136286 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737144139436 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737144142565 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737144145703 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737144148824 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737144152112 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737144155237 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737144158367 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737144161714 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737144164851 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737144167978 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737144171139 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737144174266 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737144177408 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737144180556 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737144183692 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737144187119 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737144190452 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737144193823 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737144197048 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737144200181 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737144203314 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737144206551 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737144209709 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737144212862 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737144216070 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737144219190 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737144222320 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737144225450 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737144228948 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737144232088 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737144235292 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737144238424 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737144241576 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737144244898 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737144248022 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737144251188 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737144254321 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737144257461 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737144261233 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737144264358 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737144267498 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737144270629 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737144273757 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737144276891 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737144280051 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737144283503 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737144286637 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737144289767 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737144292917 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737144296087 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737144299206 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737144302391 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737144305534 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737144308679 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737144311817 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737144314980 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737144318154 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737144321326 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737144324474 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737144327853 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737144330985 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737144334164 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737144337325 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737144340455 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737144343593 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737144346723 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737144349851 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737144353015 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737144356190 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737144359320 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737144362474 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+hp-south.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+locations-clock.gl.at.ply.gg:4261 => 127.0.0.1:4261 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1737144365595 tunnel running, 2 tunnels registered
 
 
 TUNNELS
