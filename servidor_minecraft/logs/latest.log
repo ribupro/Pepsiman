@@ -294,3 +294,19 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [17Jan2025 15:31:43.194] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of 2103_ (18)
 [17Jan2025 15:31:43.195] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to 2103_
 [17Jan2025 15:36:45.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <🪓 ▷[2103_]◁ ⛏> si
+[17Jan2025 15:38:26.955] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2103_ lost connection: Timed out
+[17Jan2025 15:38:26.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 🪓 ▷[2103_]◁ ⛏ left the game
+[17Jan2025 15:38:26.959] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client 2103_
+[17Jan2025 15:38:27.007] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[17Jan2025 15:39:13.123] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 2103_[/127.189.193.155:38117] logged in with entity id 1959 at (89.16275598888714, 111.0, 2.063708261308337)
+[17Jan2025 15:39:13.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 🪓 ▷[2103_]◁ ⛏ joined the game
+[17Jan2025 15:39:13.175] [Server thread/INFO] [Jade/]: Syncing config to 2103_ (74fd72c8-5658-3f69-baa5-9c7192198c39)
+[17Jan2025 15:39:16.396] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of 2103_ (18)
+[17Jan2025 15:39:16.396] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to 2103_
+[17Jan2025 15:39:55.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <🪓 ▷[2103_]◁ ⛏> que hago?
+[17Jan2025 15:40:34.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <🪓 ▷[2103_]◁ ⛏> bro respeto
+[17Jan2025 15:40:50.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <🪓 ▷[2103_]◁ ⛏> lo dice el que juega geometri dash
+[17Jan2025 15:41:01.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <🪓 ▷[2103_]◁ ⛏> lo mismo que minecraft
+[17Jan2025 15:41:07.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <🪓 ▷[2103_]◁ ⛏> cubos
+[17Jan2025 15:41:24.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <🪓 ▷[2103_]◁ ⛏> acaso
+[17Jan2025 15:43:13.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <🪓 ▷[2103_]◁ ⛏> normal
