@@ -11,7 +11,7 @@
   "enableInfection": true,
   "allowGrimReaper": true,
   "villagerChatPrefix": "",
-  "canHurtBabies": true,
+  "canHurtBabies": false,
   "enterVillageNotification": true,
   "villagerMarriageNotification": true,
   "villagerBirthNotification": true,
@@ -132,9 +132,9 @@
   "allowDestinyCommandMoreThanOnce": false,
   "allowDestinyTeleportation": true,
   "enablePlayerShaders": true,
-  "enableVillagerPlayerModel": true,
+  "enableVillagerPlayerModel": false,
   "forceVillagerPlayerModel": false,
-  "allowLimitedPlayerEditor": true,
+  "allowLimitedPlayerEditor": false,
   "allowFullPlayerEditor": false,
   "allowPlayerSizeAdjustment": true,
   "adjustPlayerEyesToHeight": false,
@@ -210,7 +210,6 @@
   "playerRendererBlacklist": {
     "firstperson": "arms",
     "firstpersonmod": "arms",
-    "epicfight": "all",
     "morph": "arms"
   },
   "enabledTraits": {
