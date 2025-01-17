@@ -395,3 +395,226 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [17Jan2025 21:31:08.438] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4bd31f3e-4ca1-3822-98bf-aa565b844056
 [17Jan2025 21:31:08.439] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Andrexo16 (4bd31f3e-4ca1-3822-98bf-aa565b844056) successfully connected to voice chat
 [17Jan2025 21:31:33.441] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4cdf4cc6[id=<null>,name=DarkneesGs,properties={},legacy=false] (/127.30.61.27:53459) lost connection: Disconnected
+[17Jan2025 21:32:30.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <🪓 ▷[Andrexo16]◁ ⛏> t amo alex
+[17Jan2025 21:34:23.237] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@39031f59[id=<null>,name=DarkneesGs,properties={},legacy=false] (/127.30.61.27:55019) lost connection: Disconnected
+[17Jan2025 21:34:41.703] [Server thread/WARN] [tombstone/]: The death event of the player Andrexo16 was canceled by another mod
+[17Jan2025 21:34:41.722] [Server thread/INFO] [tombstone/]: The player Andrexo16 has successfully been saved
+[17Jan2025 21:34:47.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 🪓 ▷[Andrexo16]◁ ⛏ was slain by Zombie
+[17Jan2025 21:36:04.843] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@661da173[id=<null>,name=DarkneesGs,properties={},legacy=false] (/127.30.61.27:48027) lost connection: Disconnected
+[17Jan2025 21:38:58.138] [Server thread/WARN] [tombstone/]: The death event of the player Andrexo16 was canceled by another mod
+[17Jan2025 21:38:58.147] [Server thread/INFO] [tombstone/]: The player Andrexo16 has successfully been saved
+[17Jan2025 21:39:04.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 🪓 ▷[Andrexo16]◁ ⛏ was slain by Zombie
+[17Jan2025 21:39:41.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 🪓 ▷[kattoyt]◁ ⛏ has made the advancement [You Are A Pirate]
+[17Jan2025 21:40:05.641] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Andrexo16 lost connection: Disconnected
+[17Jan2025 21:40:05.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 🪓 ▷[Andrexo16]◁ ⛏ left the game
+[17Jan2025 21:40:05.645] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Andrexo16
+[17Jan2025 21:40:43.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Alexterminium no longer a server operator
+[17Jan2025 21:40:49.328] [Server thread/WARN] [tombstone/]: The death event of the player kattoyt was canceled by another mod
+[17Jan2025 21:40:49.334] [Server thread/INFO] [tombstone/]: The player kattoyt has successfully been saved
+[17Jan2025 21:40:56.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Alexterminium a server operator
+[17Jan2025 21:41:02.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 🪓 ▷[kattoyt]◁ ⛏ was slain by Vindicator
+[17Jan2025 21:41:36.881] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@48ddaee8[id=<null>,name=Suzu_iS,properties={},legacy=false] (/127.151.165.29:54203) lost connection: Disconnected
+[17Jan2025 21:42:02.590] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'creategoggles:recipes/nbtcrafting/iron_backtank' in progress file ./world/advancements/e0be6775-2aa6-3990-b9f5-d7c77c9dfa42.json - it doesn't exist anymore?
+[17Jan2025 21:42:02.590] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'creategoggles:recipes/nbtcrafting/goggle_iron_helmet' in progress file ./world/advancements/e0be6775-2aa6-3990-b9f5-d7c77c9dfa42.json - it doesn't exist anymore?
+[17Jan2025 21:42:02.591] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'creategoggles:recipes/nbtcrafting/diamond_backtank' in progress file ./world/advancements/e0be6775-2aa6-3990-b9f5-d7c77c9dfa42.json - it doesn't exist anymore?
+[17Jan2025 21:42:02.591] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'creategoggles:recipes/nbtcrafting/leather_backtank' in progress file ./world/advancements/e0be6775-2aa6-3990-b9f5-d7c77c9dfa42.json - it doesn't exist anymore?
+[17Jan2025 21:42:02.598] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: creategoggles:diamond_backtank removed now.
+[17Jan2025 21:42:02.599] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: creategoggles:iron_backtank removed now.
+[17Jan2025 21:42:02.599] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: creategoggles:goggle_iron_helmet removed now.
+[17Jan2025 21:42:02.600] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: creategoggles:leather_backtank removed now.
+[17Jan2025 21:42:02.601] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Suzu_iS[/127.151.165.29:46033] logged in with entity id 11275 at (3411.016739052439, 64.0, -2090.3363833710587)
+[17Jan2025 21:42:02.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 🪓 ▷[Suzu_iS]◁ ⛏ joined the game
+[17Jan2025 21:42:02.649] [Server thread/INFO] [Jade/]: Syncing config to Suzu_iS (e0be6775-2aa6-3990-b9f5-d7c77c9dfa42)
+[17Jan2025 21:42:04.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 🪓 ▷[kattoyt]◁ ⛏ has made the advancement [Ambush]
+[17Jan2025 21:42:09.118] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Suzu_iS (18)
+[17Jan2025 21:42:09.119] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Suzu_iS
+[17Jan2025 21:42:32.684] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Suzu_iS lost connection: Disconnected
+[17Jan2025 21:42:32.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 🪓 ▷[Suzu_iS]◁ ⛏ left the game
+[17Jan2025 21:42:32.685] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Suzu_iS
+[17Jan2025 21:42:32.733] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[17Jan2025 21:42:48.041] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Andrexo16[/127.226.76.9:49807] logged in with entity id 11576 at (3591.3662826314185, -20.0, -203.41393670599322)
+[17Jan2025 21:42:48.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 🪓 ▷[Andrexo16]◁ ⛏ joined the game
+[17Jan2025 21:42:48.060] [Server thread/INFO] [Jade/]: Syncing config to Andrexo16 (4bd31f3e-4ca1-3822-98bf-aa565b844056)
+[17Jan2025 21:42:50.511] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Andrexo16 (18)
+[17Jan2025 21:42:50.511] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Andrexo16
+[17Jan2025 21:42:55.825] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4bd31f3e-4ca1-3822-98bf-aa565b844056
+[17Jan2025 21:42:56.830] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4bd31f3e-4ca1-3822-98bf-aa565b844056
+[17Jan2025 21:42:56.830] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Andrexo16 (4bd31f3e-4ca1-3822-98bf-aa565b844056) successfully connected to voice chat
+[17Jan2025 21:43:02.771] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Suzu_iS[/127.151.165.29:58535] logged in with entity id 11922 at (3411.016739052439, 64.0, -2090.3363833710587)
+[17Jan2025 21:43:02.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 🪓 ▷[Suzu_iS]◁ ⛏ joined the game
+[17Jan2025 21:43:02.820] [Server thread/INFO] [Jade/]: Syncing config to Suzu_iS (e0be6775-2aa6-3990-b9f5-d7c77c9dfa42)
+[17Jan2025 21:43:04.653] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Suzu_iS (18)
+[17Jan2025 21:43:04.654] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Suzu_iS
+[17Jan2025 21:43:31.894] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e0be6775-2aa6-3990-b9f5-d7c77c9dfa42
+[17Jan2025 21:43:32.841] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Suzu_iS lost connection: Timed out
+[17Jan2025 21:43:32.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 🪓 ▷[Suzu_iS]◁ ⛏ left the game
+[17Jan2025 21:43:32.842] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Suzu_iS
+[17Jan2025 21:43:50.902] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Suzu_iS[/127.151.165.29:47403] logged in with entity id 12182 at (3411.016739052439, 64.0, -2090.3363833710587)
+[17Jan2025 21:43:50.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 🪓 ▷[Suzu_iS]◁ ⛏ joined the game
+[17Jan2025 21:43:50.948] [Server thread/INFO] [Jade/]: Syncing config to Suzu_iS (e0be6775-2aa6-3990-b9f5-d7c77c9dfa42)
+[17Jan2025 21:43:52.592] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Suzu_iS (18)
+[17Jan2025 21:43:52.593] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Suzu_iS
+[17Jan2025 21:44:20.992] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Suzu_iS lost connection: Timed out
+[17Jan2025 21:44:20.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 🪓 ▷[Suzu_iS]◁ ⛏ left the game
+[17Jan2025 21:44:20.992] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Suzu_iS
+[17Jan2025 21:44:23.387] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alexterminium lost connection: Disconnected
+[17Jan2025 21:44:23.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 🪓 ▷[Alexterminium]◁ ⛏ left the game
+[17Jan2025 21:44:23.388] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Alexterminium
+[17Jan2025 21:44:50.949] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Suzu_iS[/127.151.165.29:45265] logged in with entity id 12588 at (3411.016739052439, 64.0, -2090.3363833710587)
+[17Jan2025 21:44:50.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 🪓 ▷[Suzu_iS]◁ ⛏ joined the game
+[17Jan2025 21:44:50.988] [Server thread/INFO] [Jade/]: Syncing config to Suzu_iS (e0be6775-2aa6-3990-b9f5-d7c77c9dfa42)
+[17Jan2025 21:44:52.587] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Suzu_iS (18)
+[17Jan2025 21:44:52.587] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Suzu_iS
+[17Jan2025 21:45:21.036] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Suzu_iS lost connection: Timed out
+[17Jan2025 21:45:21.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 🪓 ▷[Suzu_iS]◁ ⛏ left the game
+[17Jan2025 21:45:21.037] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Suzu_iS
+[17Jan2025 21:46:13.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] en 10 mins cierro para subir el nuevo servidor ok? en el canal de tutos dejare el nuevo parche
+[17Jan2025 21:46:16.237] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4b3eb5b6[id=<null>,name=Suzu_iS,properties={},legacy=false] (/127.151.165.29:52185) lost connection: Disconnected
+[17Jan2025 21:46:25.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] es la ultima vez que ocurrira lo del parche
+[17Jan2025 21:46:36.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <🪓 ▷[Andrexo16]◁ ⛏> tmrrrrr
+[17Jan2025 21:46:57.387] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@67f5f54f[id=<null>,name=Suzu_iS,properties={},legacy=false] (/127.151.165.29:48393) lost connection: Disconnected
+[17Jan2025 21:47:11.651] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Suzu_iS[/127.151.165.29:35135] logged in with entity id 13710 at (3411.016739052439, 64.0, -2090.3363833710587)
+[17Jan2025 21:47:11.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 🪓 ▷[Suzu_iS]◁ ⛏ joined the game
+[17Jan2025 21:47:11.695] [Server thread/INFO] [Jade/]: Syncing config to Suzu_iS (e0be6775-2aa6-3990-b9f5-d7c77c9dfa42)
+[17Jan2025 21:47:13.085] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Suzu_iS (18)
+[17Jan2025 21:47:13.085] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Suzu_iS
+[17Jan2025 21:47:41.785] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Suzu_iS lost connection: Timed out
+[17Jan2025 21:47:41.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 🪓 ▷[Suzu_iS]◁ ⛏ left the game
+[17Jan2025 21:47:41.786] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Suzu_iS
+[17Jan2025 21:48:28.802] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Suzu_iS[/127.151.165.29:46395] logged in with entity id 14340 at (3411.016739052439, 64.0, -2090.3363833710587)
+[17Jan2025 21:48:28.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 🪓 ▷[Suzu_iS]◁ ⛏ joined the game
+[17Jan2025 21:48:28.845] [Server thread/INFO] [Jade/]: Syncing config to Suzu_iS (e0be6775-2aa6-3990-b9f5-d7c77c9dfa42)
+[17Jan2025 21:48:30.211] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Suzu_iS (18)
+[17Jan2025 21:48:30.212] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Suzu_iS
+[17Jan2025 21:48:35.880] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e0be6775-2aa6-3990-b9f5-d7c77c9dfa42
+[17Jan2025 21:48:36.881] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e0be6775-2aa6-3990-b9f5-d7c77c9dfa42
+[17Jan2025 21:48:36.881] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Suzu_iS (e0be6775-2aa6-3990-b9f5-d7c77c9dfa42) successfully connected to voice chat
+[17Jan2025 21:49:08.939] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Vitorina'/11812, l='ServerLevel[world]', x=3469.03, y=27.65, z=-186.87] died, message: 'Vitorina was slain by Skeleton'
+[17Jan2025 21:49:08.941] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Vitorina'/11812, l='ServerLevel[world]', x=3469.03, y=27.65, z=-186.87] died: Vitorina was slain by Skeleton
+[17Jan2025 21:52:01.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] en compensacion hoy dejare abiwrto como hasta la 1 am
+[17Jan2025 21:53:29.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 🪓 ▷[kattoyt]◁ ⛏ has made the advancement [Penteconter]
+[17Jan2025 21:54:44.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 🪓 ▷[kattoyt]◁ ⛏ has reached the goal [Fortuitous Militia]
+[17Jan2025 21:56:10.790] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1aeea6ca[id=<null>,name=DarkneesGs,properties={},legacy=false] (/127.30.61.27:40041) lost connection: Disconnected
+[17Jan2025 21:56:25.336] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2efd2b31[id=<null>,name=DarkneesGs,properties={},legacy=false] (/127.30.61.27:49529) lost connection: Disconnected
+[17Jan2025 21:57:20.739] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@56c8d276[id=<null>,name=DarkneesGs,properties={},legacy=false] (/127.30.61.27:41365) lost connection: Disconnected
+[17Jan2025 21:58:41.151] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=35, z=-533}
+[17Jan2025 21:58:41.152] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=36, z=-533}
+[17Jan2025 21:58:41.159] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-253, y=31, z=-608}
+[17Jan2025 21:58:41.283] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-282, y=35, z=-587}
+[17Jan2025 21:58:41.295] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-275, y=27, z=-591}
+[17Jan2025 21:58:46.344] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=35, z=-533}
+[17Jan2025 21:58:46.345] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=36, z=-533}
+[17Jan2025 21:58:46.603] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-259, y=32, z=-606}
+[17Jan2025 21:58:46.604] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-260, y=32, z=-606}
+[17Jan2025 21:58:46.640] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=26, z=-592}
+[17Jan2025 21:58:46.640] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=27, z=-592}
+[17Jan2025 21:59:24.994] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-235, y=27, z=-544}
+[17Jan2025 21:59:25.024] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-362, y=26, z=-631}
+[17Jan2025 21:59:25.024] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-362, y=26, z=-629}
+[17Jan2025 21:59:25.024] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-356, y=26, z=-626}
+[17Jan2025 21:59:25.025] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-355, y=26, z=-628}
+[17Jan2025 21:59:25.025] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-354, y=26, z=-626}
+[17Jan2025 21:59:25.025] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-364, y=26, z=-623}
+[17Jan2025 21:59:25.025] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-362, y=26, z=-622}
+[17Jan2025 21:59:25.026] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-362, y=26, z=-623}
+[17Jan2025 21:59:25.026] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-354, y=26, z=-622}
+[17Jan2025 21:59:25.026] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-355, y=26, z=-622}
+[17Jan2025 21:59:25.026] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-355, y=26, z=-620}
+[17Jan2025 21:59:25.026] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-356, y=26, z=-620}
+[17Jan2025 21:59:25.184] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-250, y=27, z=-586}
+[17Jan2025 21:59:25.196] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=26, z=-592}
+[17Jan2025 21:59:25.196] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=27, z=-592}
+[17Jan2025 21:59:25.196] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-275, y=27, z=-591}
+[17Jan2025 21:59:25.197] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-282, y=35, z=-587}
+[17Jan2025 21:59:25.317] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-257, y=27, z=-591}
+[17Jan2025 21:59:25.318] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-253, y=27, z=-591}
+[17Jan2025 21:59:25.356] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-355, y=26, z=-545}
+[17Jan2025 21:59:25.356] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-355, y=26, z=-541}
+[17Jan2025 21:59:43.803] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-365, y=26, z=-615}
+[17Jan2025 21:59:43.804] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-364, y=26, z=-609}
+[17Jan2025 21:59:43.806] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-366, y=26, z=-609}
+[17Jan2025 21:59:43.806] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-366, y=26, z=-613}
+[17Jan2025 21:59:43.806] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-365, y=26, z=-613}
+[17Jan2025 21:59:43.806] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-364, y=26, z=-613}
+[17Jan2025 21:59:43.807] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-358, y=26, z=-614}
+[17Jan2025 21:59:43.807] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-358, y=26, z=-615}
+[17Jan2025 21:59:43.807] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-358, y=26, z=-616}
+[17Jan2025 21:59:43.808] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-356, y=26, z=-615}
+[17Jan2025 21:59:43.808] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-356, y=26, z=-614}
+[17Jan2025 21:59:43.808] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-358, y=26, z=-606}
+[17Jan2025 21:59:43.808] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-356, y=26, z=-606}
+[17Jan2025 21:59:43.898] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-234, y=32, z=-539}
+[17Jan2025 21:59:48.551] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-329, y=27, z=-542}
+[17Jan2025 21:59:48.551] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-329, y=32, z=-542}
+[17Jan2025 21:59:52.175] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-250, y=27, z=-536}
+[17Jan2025 21:59:52.176] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-251, y=27, z=-536}
+[17Jan2025 21:59:52.176] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-252, y=27, z=-536}
+[17Jan2025 21:59:52.176] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-250, y=28, z=-536}
+[17Jan2025 21:59:52.176] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-251, y=28, z=-536}
+[17Jan2025 21:59:52.177] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-252, y=28, z=-536}
+[17Jan2025 21:59:52.225] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-330, y=27, z=-542}
+[17Jan2025 21:59:52.509] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-250, y=27, z=-536}
+[17Jan2025 21:59:52.509] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-251, y=27, z=-536}
+[17Jan2025 21:59:52.509] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-252, y=27, z=-536}
+[17Jan2025 21:59:52.509] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-250, y=28, z=-536}
+[17Jan2025 21:59:52.510] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-251, y=28, z=-536}
+[17Jan2025 21:59:52.510] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-252, y=28, z=-536}
+[17Jan2025 21:59:54.305] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-249, y=27, z=-561}
+[17Jan2025 21:59:54.549] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-275, y=27, z=-591}
+[17Jan2025 21:59:58.126] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=26, z=-592}
+[17Jan2025 21:59:58.126] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=27, z=-592}
+[17Jan2025 21:59:58.141] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-282, y=35, z=-587}
+[17Jan2025 22:00:28.899] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DarkneesGs[/127.30.61.27:50265] logged in with entity id 22660 at (81.5, 106.0, 5.5)
+[17Jan2025 22:00:28.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkneesGs joined the game
+[17Jan2025 22:00:28.930] [Server thread/INFO] [Jade/]: Syncing config to DarkneesGs (bc1bdd92-4099-3a4b-bf29-9f0628c36359)
+[17Jan2025 22:00:31.899] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of DarkneesGs (18)
+[17Jan2025 22:00:31.899] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to DarkneesGs
+[17Jan2025 22:00:35.542] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Veera'/22387, l='ServerLevel[world]', x=1910.51, y=97.44, z=1104.74] died, message: 'Veera went up in flames'
+[17Jan2025 22:00:59.000] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DarkneesGs lost connection: Timed out
+[17Jan2025 22:00:59.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkneesGs left the game
+[17Jan2025 22:00:59.001] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client DarkneesGs
+[17Jan2025 22:01:10.938] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Suchitra'/22391, l='ServerLevel[world]', x=1910.49, y=97.44, z=1104.72] died, message: 'Suchitra went up in flames'
+[17Jan2025 22:01:37.688] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Kum'/22388, l='ServerLevel[world]', x=1910.44, y=97.44, z=1104.71] died, message: 'Kum went up in flames'
+[17Jan2025 22:02:06.435] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Kamalanathan'/22390, l='ServerLevel[world]', x=1910.52, y=97.44, z=1104.70] died, message: 'Kamalanathan went up in flames'
+[17Jan2025 22:02:06.508] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DarkneesGs[/127.30.61.27:39729] logged in with entity id 23857 at (81.5, 106.0, 5.5)
+[17Jan2025 22:02:06.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkneesGs joined the game
+[17Jan2025 22:02:06.547] [Server thread/INFO] [Jade/]: Syncing config to DarkneesGs (bc1bdd92-4099-3a4b-bf29-9f0628c36359)
+[17Jan2025 22:02:08.250] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of DarkneesGs (18)
+[17Jan2025 22:02:08.250] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to DarkneesGs
+[17Jan2025 22:02:32.646] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Sameer'/22389, l='ServerLevel[world]', x=1910.58, y=97.44, z=1104.73] died, message: 'Sameer went up in flames'
+[17Jan2025 22:02:36.607] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DarkneesGs lost connection: Timed out
+[17Jan2025 22:02:36.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkneesGs left the game
+[17Jan2025 22:02:36.607] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client DarkneesGs
+[17Jan2025 22:03:07.696] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Devyani'/22392, l='ServerLevel[world]', x=1910.36, y=97.44, z=1104.72] died, message: 'Devyani went up in flames'
+[17Jan2025 22:03:08.502] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Vandana'/22172, l='ServerLevel[world]', x=1902.25, y=53.25, z=1138.74] died, message: 'Vandana was slain by Skeleton'
+[17Jan2025 22:03:57.888] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Harsh'/22284, l='ServerLevel[world]', x=1910.57, y=97.44, z=1104.73] died, message: 'Harsh went up in flames'
+[17Jan2025 22:03:58.296] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Ponnampalam'/22234, l='ServerLevel[world]', x=1902.70, y=38.00, z=1124.70] died, message: 'Ponnampalam was slain by Zombie'
+[17Jan2025 22:07:01.544] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Gunmala'/21970, l='ServerLevel[world]', x=1898.70, y=55.15, z=1132.72] died, message: 'Gunmala was slain by Zombie'
+[17Jan2025 22:08:14.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 🪓 ▷[Suzu_iS]◁ ⛏ has made the advancement [Mine? Mine? Mine?]
+[17Jan2025 22:08:20.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <🪓 ▷[Suzu_iS]◁ ⛏> estos choros
+[17Jan2025 22:11:14.355] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: isantxxx[/127.254.157.114:53787] logged in with entity id 31094 at (81.5, 106.0, 5.5)
+[17Jan2025 22:11:14.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: isantxxx joined the game
+[17Jan2025 22:11:14.397] [Server thread/INFO] [Jade/]: Syncing config to isantxxx (c0a09058-8af5-399a-ba79-aaee17da0e74)
+[17Jan2025 22:11:17.259] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of isantxxx (18)
+[17Jan2025 22:11:17.259] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to isantxxx
+[17Jan2025 22:11:22.214] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player c0a09058-8af5-399a-ba79-aaee17da0e74
+[17Jan2025 22:11:23.206] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player c0a09058-8af5-399a-ba79-aaee17da0e74
+[17Jan2025 22:11:23.206] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player isantxxx (c0a09058-8af5-399a-ba79-aaee17da0e74) successfully connected to voice chat
+[17Jan2025 22:11:32.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] nos vemos en 30 mins APROX gente perdonen la demora es que han pasado muchas cosas el dia de hoy y quiero dejar ya todo pulido lo bueno es que ya es la ultima vez que les paso un paquete de recursos nuevo
+[17Jan2025 22:11:56.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] ya a partir de hoy se abrira habitualmente el servidor y todo bien
+[17Jan2025 22:12:05.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] nos vemos ahora! Desconectando...
+[17Jan2025 22:12:25.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[17Jan2025 22:12:25.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[17Jan2025 22:12:25.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[17Jan2025 22:12:25.820] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kattoyt lost connection: Server closed
+[17Jan2025 22:12:25.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 🪓 ▷[kattoyt]◁ ⛏ left the game
+[17Jan2025 22:12:25.827] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Suzu_iS lost connection: Server closed
+[17Jan2025 22:12:25.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 🪓 ▷[Suzu_iS]◁ ⛏ left the game
+[17Jan2025 22:12:25.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[17Jan2025 22:12:26.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17Jan2025 22:12:28.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[17Jan2025 22:12:28.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[17Jan2025 22:12:28.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17Jan2025 22:12:28.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17Jan2025 22:12:28.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17Jan2025 22:12:28.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
